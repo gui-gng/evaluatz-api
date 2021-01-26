@@ -1,4 +1,4 @@
-Symbol,Name,Sector,Source,Alias
+symbol,name,sector,source,alias
 MMM,3M Company,Industrials,S&P 500,SAP_500
 AOS,A.O. Smith Corp,Industrials,S&P 500,SAP_500
 ABT,Abbott Laboratories,Health Care,S&P 500,SAP_500

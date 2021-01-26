@@ -71,7 +71,7 @@ async function getAllStocks() {
 async function search(symbol) {
   return new Promise(async (resolve) => {
     const stocks = await getAllStocks();
-    resolve(stocks.filter(s => s.Symbol.includes(symbol)));
+    resolve(stocks.filter(s => s.symbol.includes(symbol)));
   });
 }
 
@@ -87,7 +87,7 @@ async function getStock(source, symbol, just_values) {
       resolve(results)
     } else {
       const stocks = await getAllStocks();
-      const stock = stocks.filter(s => s.Symbol == symbol)[0];
+      const stock = stocks.filter(s => s.symbol == symbol)[0];
       stock['data'] = results;
       resolve(stock)
     }
