@@ -1,6 +1,6 @@
-const csv = require('csv-parser');
+const csv = require('csvtojson')
 const fs = require('fs');
-
+const source_path = 'https://api.evaluatz.com';
 
 export default async function handler(req, res) {
   const {
@@ -23,11 +23,11 @@ export default async function handler(req, res) {
 
 
 }
-async function executeGetStock(res, source, symbol, just_values){
- 
+async function executeGetStock(res, source, symbol, just_values) {
+
   try {
     const stocks = await getStock(source, symbol, just_values);
-    
+
     res.send(stocks)
   } catch (error) {
     res.send(error);
@@ -61,43 +61,36 @@ async function list(res) {
 async function getAllStocks() {
   let results = [];
   return new Promise(async (resolve) => {
-      fs.createReadStream('/storage/list_stocks.csv')
-      .pipe(csv())
-      .on('data', (data) => results.push(data))
-      .on('end', () => {
-          resolve(results)
-      });
-
+    const url = source_path + '/storage/list_stocks.csv';
+    const response = await fetch(url);
+    const results = await csv().fromString(response);
+    resolve(results);
   });
 }
 
 async function search(symbol) {
   return new Promise(async (resolve) => {
-      const stocks = await getAllStocks();
-      resolve(stocks.filter(s => s.Symbol.includes(symbol)));
+    const stocks = await getAllStocks();
+    resolve(stocks.filter(s => s.Symbol.includes(symbol)));
   });
 }
 
 async function getStock(source, symbol, just_values) {
   console.log("GET STOCKS2")
   return new Promise(async (resolve) => {
-      let results = [];
-      
-      fs.createReadStream(`/storage/${source}/${symbol}.csv`)
-      .pipe(csv())
-      .on('data', (data) => results.push(data))
-      .on('end', async () => {
-          if(just_values){
-              console.log(results)
-              resolve(results)
-          }else{
-              const stocks = await getAllStocks();
-              const stock = stocks.filter(s => s.Symbol == symbol)[0];
-              stock['data'] = results;
-              resolve(stock)
-          }
+    let results = [];
+    const url = source_path + `/storage/${source}/${symbol}.csv`;
+    const response = await fetch(url);
+    const results = await csv().fromString(response);
 
-          
-      });
+    if (just_values) {
+      console.log(results)
+      resolve(results)
+    } else {
+      const stocks = await getAllStocks();
+      const stock = stocks.filter(s => s.Symbol == symbol)[0];
+      stock['data'] = results;
+      resolve(stock)
+    }
   });
 }
