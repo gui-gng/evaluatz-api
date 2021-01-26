@@ -1,6 +1,7 @@
 const csv = require('csvtojson')
 const fs = require('fs');
 const source_path = 'https://api.evaluatz.com';
+// const source_path = 'http://localhost:3000';
 
 export default async function handler(req, res) {
   const {
@@ -61,7 +62,7 @@ async function list(res) {
 async function getAllStocks() {
   return new Promise(async (resolve) => {
     const url = source_path + '/storage/list_stocks.csv';
-    const response = await fetch(url);
+    const response = await(await fetch(url)).text();
     const results = await csv().fromString(response);
     resolve(results);
   });
@@ -78,7 +79,7 @@ async function getStock(source, symbol, just_values) {
   console.log("GET STOCKS2")
   return new Promise(async (resolve) => {
     const url = source_path + `/storage/${source}/${symbol}.csv`;
-    const response = await fetch(url);
+    const response = await(await fetch(url)).text();
     const results = await csv().fromString(response);
 
     if (just_values) {
