@@ -61,7 +61,7 @@ async function list(res) {
 async function getAllStocks() {
   let results = [];
   return new Promise(async (resolve) => {
-      fs.createReadStream('./storage/list_stocks.csv')
+      fs.createReadStream('/storage/list_stocks.csv')
       .pipe(csv())
       .on('data', (data) => results.push(data))
       .on('end', () => {
@@ -82,7 +82,8 @@ async function getStock(source, symbol, just_values) {
   console.log("GET STOCKS2")
   return new Promise(async (resolve) => {
       let results = [];
-      fs.createReadStream(`./storage/${source}/${symbol}.csv`)
+      
+      fs.createReadStream(`/storage/${source}/${symbol}.csv`)
       .pipe(csv())
       .on('data', (data) => results.push(data))
       .on('end', async () => {
