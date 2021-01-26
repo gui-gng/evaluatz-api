@@ -59,7 +59,6 @@ async function list(res) {
 
 
 async function getAllStocks() {
-  let results = [];
   return new Promise(async (resolve) => {
     const url = source_path + '/storage/list_stocks.csv';
     const response = await fetch(url);
@@ -78,7 +77,6 @@ async function search(symbol) {
 async function getStock(source, symbol, just_values) {
   console.log("GET STOCKS2")
   return new Promise(async (resolve) => {
-    let results = [];
     const url = source_path + `/storage/${source}/${symbol}.csv`;
     const response = await fetch(url);
     const results = await csv().fromString(response);
