@@ -88,7 +88,7 @@ async function getStock(source, symbol, just_values) {
     } else {
       const stocks = await getAllStocks();
       const stock = stocks.filter(s => s.symbol == symbol)[0];
-      stock['data'] = results;
+      stock['historic'] = results;
       resolve(stock)
     }
   });
