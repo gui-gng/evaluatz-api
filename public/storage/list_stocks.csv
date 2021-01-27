@@ -1,506 +1,506 @@
-symbol,name,sector,source,alias
-MMM,3M Company,Industrials,S&P 500,SAP_500
-AOS,A.O. Smith Corp,Industrials,S&P 500,SAP_500
-ABT,Abbott Laboratories,Health Care,S&P 500,SAP_500
-ABBV,AbbVie Inc.,Health Care,S&P 500,SAP_500
-ABMD,ABIOMED Inc,Health Care,S&P 500,SAP_500
-ACN,Accenture plc,Information Technology,S&P 500,SAP_500
-ATVI,Activision Blizzard,Communication Services,S&P 500,SAP_500
-ADBE,Adobe Inc.,Information Technology,S&P 500,SAP_500
-AAP,Advance Auto Parts,Consumer Discretionary,S&P 500,SAP_500
-AMD,Advanced Micro Devices Inc,Information Technology,S&P 500,SAP_500
-AES,AES Corp,Utilities,S&P 500,SAP_500
-AFL,AFLAC Inc,Financials,S&P 500,SAP_500
-A,Agilent Technologies Inc,Health Care,S&P 500,SAP_500
-APD,Air Products & Chemicals Inc,Materials,S&P 500,SAP_500
-AKAM,Akamai Technologies Inc,Information Technology,S&P 500,SAP_500
-ALK,Alaska Air Group Inc,Industrials,S&P 500,SAP_500
-ALB,Albemarle Corp,Materials,S&P 500,SAP_500
-ARE,Alexandria Real Estate Equities,Real Estate,S&P 500,SAP_500
-ALXN,Alexion Pharmaceuticals,Health Care,S&P 500,SAP_500
-ALGN,Align Technology,Health Care,S&P 500,SAP_500
-ALLE,Allegion,Industrials,S&P 500,SAP_500
-LNT,Alliant Energy Corp,Utilities,S&P 500,SAP_500
-ALL,Allstate Corp,Financials,S&P 500,SAP_500
-GOOGL,Alphabet Inc. (Class A),Communication Services,S&P 500,SAP_500
-GOOG,Alphabet Inc. (Class C),Communication Services,S&P 500,SAP_500
-MO,Altria Group Inc,Consumer Staples,S&P 500,SAP_500
-AMZN,Amazon.com Inc.,Consumer Discretionary,S&P 500,SAP_500
-AMCR,Amcor plc,Materials,S&P 500,SAP_500
-AEE,Ameren Corp,Utilities,S&P 500,SAP_500
-AAL,American Airlines Group,Industrials,S&P 500,SAP_500
-AEP,American Electric Power,Utilities,S&P 500,SAP_500
-AXP,American Express Co,Financials,S&P 500,SAP_500
-AIG,American International Group,Financials,S&P 500,SAP_500
-AMT,American Tower Corp.,Real Estate,S&P 500,SAP_500
-AWK,American Water Works Company Inc,Utilities,S&P 500,SAP_500
-AMP,Ameriprise Financial,Financials,S&P 500,SAP_500
-ABC,AmerisourceBergen Corp,Health Care,S&P 500,SAP_500
-AME,AMETEK Inc.,Industrials,S&P 500,SAP_500
-AMGN,Amgen Inc.,Health Care,S&P 500,SAP_500
-APH,Amphenol Corp,Information Technology,S&P 500,SAP_500
-ADI,Analog Devices Inc.,Information Technology,S&P 500,SAP_500
-ANSS,ANSYS,Information Technology,S&P 500,SAP_500
-ANTM,Anthem,Health Care,S&P 500,SAP_500
-AON,Aon plc,Financials,S&P 500,SAP_500
-APA,Apache Corporation,Energy,S&P 500,SAP_500
-AIV,Apartment Investment & Management,Real Estate,S&P 500,SAP_500
-AAPL,Apple Inc.,Information Technology,S&P 500,SAP_500
-AMAT,Applied Materials Inc.,Information Technology,S&P 500,SAP_500
-APTV,Aptiv PLC,Consumer Discretionary,S&P 500,SAP_500
-ADM,Archer-Daniels-Midland Co,Consumer Staples,S&P 500,SAP_500
-ANET,Arista Networks,Information Technology,S&P 500,SAP_500
-AJG,Arthur J. Gallagher & Co.,Financials,S&P 500,SAP_500
-AIZ,Assurant,Financials,S&P 500,SAP_500
-T,AT&T Inc.,Communication Services,S&P 500,SAP_500
-ATO,Atmos Energy,Utilities,S&P 500,SAP_500
-ADSK,Autodesk Inc.,Information Technology,S&P 500,SAP_500
-ADP,Automatic Data Processing,Information Technology,S&P 500,SAP_500
-AZO,AutoZone Inc,Consumer Discretionary,S&P 500,SAP_500
-AVB,AvalonBay Communities,Real Estate,S&P 500,SAP_500
-AVY,Avery Dennison Corp,Materials,S&P 500,SAP_500
-BKR,Baker Hughes Co,Energy,S&P 500,SAP_500
-BLL,Ball Corp,Materials,S&P 500,SAP_500
-BAC,Bank of America Corp,Financials,S&P 500,SAP_500
-BAX,Baxter International Inc.,Health Care,S&P 500,SAP_500
-BDX,Becton Dickinson,Health Care,S&P 500,SAP_500
-BRK-B,Berkshire Hathaway,Financials,S&P 500,SAP_500
-BBY,Best Buy Co. Inc.,Consumer Discretionary,S&P 500,SAP_500
-BIO,Bio-Rad Laboratories,Health Care,S&P 500,SAP_500
-BIIB,Biogen Inc.,Health Care,S&P 500,SAP_500
-BLK,BlackRock,Financials,S&P 500,SAP_500
-BA,Boeing Company,Industrials,S&P 500,SAP_500
-BKNG,Booking Holdings Inc,Consumer Discretionary,S&P 500,SAP_500
-BWA,BorgWarner,Consumer Discretionary,S&P 500,SAP_500
-BXP,Boston Properties,Real Estate,S&P 500,SAP_500
-BSX,Boston Scientific,Health Care,S&P 500,SAP_500
-BMY,Bristol-Myers Squibb,Health Care,S&P 500,SAP_500
-AVGO,Broadcom Inc.,Information Technology,S&P 500,SAP_500
-BR,Broadridge Financial Solutions,Information Technology,S&P 500,SAP_500
-BF-B,Brown-Forman Corp.,Consumer Staples,S&P 500,SAP_500
-CHRW,C. H. Robinson Worldwide,Industrials,S&P 500,SAP_500
-COG,Cabot Oil & Gas,Energy,S&P 500,SAP_500
-CDNS,Cadence Design Systems,Information Technology,S&P 500,SAP_500
-CPB,Campbell Soup,Consumer Staples,S&P 500,SAP_500
-COF,Capital One Financial,Financials,S&P 500,SAP_500
-CAH,Cardinal Health Inc.,Health Care,S&P 500,SAP_500
-KMX,Carmax Inc,Consumer Discretionary,S&P 500,SAP_500
-CCL,Carnival Corp.,Consumer Discretionary,S&P 500,SAP_500
-CARR,Carrier Global,Industrials,S&P 500,SAP_500
-CAT,Caterpillar Inc.,Industrials,S&P 500,SAP_500
-CBOE,Cboe Global Markets,Financials,S&P 500,SAP_500
-CBRE,CBRE Group,Real Estate,S&P 500,SAP_500
-CDW,CDW,Information Technology,S&P 500,SAP_500
-CE,Celanese,Materials,S&P 500,SAP_500
-CNC,Centene Corporation,Health Care,S&P 500,SAP_500
-CNP,CenterPoint Energy,Utilities,S&P 500,SAP_500
-CTL,CenturyLink Inc,Communication Services,S&P 500,SAP_500
-CERN,Cerner,Health Care,S&P 500,SAP_500
-CF,CF Industries Holdings Inc,Materials,S&P 500,SAP_500
-SCHW,Charles Schwab Corporation,Financials,S&P 500,SAP_500
-CHTR,Charter Communications,Communication Services,S&P 500,SAP_500
-CVX,Chevron Corp.,Energy,S&P 500,SAP_500
-CMG,Chipotle Mexican Grill,Consumer Discretionary,S&P 500,SAP_500
-CB,Chubb Limited,Financials,S&P 500,SAP_500
-CHD,Church & Dwight,Consumer Staples,S&P 500,SAP_500
-CI,CIGNA Corp.,Health Care,S&P 500,SAP_500
-CINF,Cincinnati Financial,Financials,S&P 500,SAP_500
-CTAS,Cintas Corporation,Industrials,S&P 500,SAP_500
-CSCO,Cisco Systems,Information Technology,S&P 500,SAP_500
-C,Citigroup Inc.,Financials,S&P 500,SAP_500
-CFG,Citizens Financial Group,Financials,S&P 500,SAP_500
-CTXS,Citrix Systems,Information Technology,S&P 500,SAP_500
-CME,CME Group Inc.,Financials,S&P 500,SAP_500
-CMS,CMS Energy,Utilities,S&P 500,SAP_500
-KO,Coca-Cola Company,Consumer Staples,S&P 500,SAP_500
-CTSH,Cognizant Technology Solutions,Information Technology,S&P 500,SAP_500
-CL,Colgate-Palmolive,Consumer Staples,S&P 500,SAP_500
-CMCSA,Comcast Corp.,Communication Services,S&P 500,SAP_500
-CMA,Comerica Inc.,Financials,S&P 500,SAP_500
-CAG,Conagra Brands,Consumer Staples,S&P 500,SAP_500
-CXO,Concho Resources,Energy,S&P 500,SAP_500
-COP,ConocoPhillips,Energy,S&P 500,SAP_500
-ED,Consolidated Edison,Utilities,S&P 500,SAP_500
-STZ,Constellation Brands,Consumer Staples,S&P 500,SAP_500
-CPRT,Copart Inc,Industrials,S&P 500,SAP_500
-GLW,Corning Inc.,Information Technology,S&P 500,SAP_500
-CTVA,Corteva,Materials,S&P 500,SAP_500
-COST,Costco Wholesale Corp.,Consumer Staples,S&P 500,SAP_500
-COTY,Coty Inc,Consumer Staples,S&P 500,SAP_500
-CCI,Crown Castle International Corp.,Real Estate,S&P 500,SAP_500
-CSX,CSX Corp.,Industrials,S&P 500,SAP_500
-CMI,Cummins Inc.,Industrials,S&P 500,SAP_500
-CVS,CVS Health,Health Care,S&P 500,SAP_500
-DHI,D. R. Horton,Consumer Discretionary,S&P 500,SAP_500
-DHR,Danaher Corp.,Health Care,S&P 500,SAP_500
-DRI,Darden Restaurants,Consumer Discretionary,S&P 500,SAP_500
-DVA,DaVita Inc.,Health Care,S&P 500,SAP_500
-DE,Deere & Co.,Industrials,S&P 500,SAP_500
-DAL,Delta Air Lines Inc.,Industrials,S&P 500,SAP_500
-XRAY,Dentsply Sirona,Health Care,S&P 500,SAP_500
-DVN,Devon Energy,Energy,S&P 500,SAP_500
-DXCM,DexCom,Health Care,S&P 500,SAP_500
-FANG,Diamondback Energy,Energy,S&P 500,SAP_500
-DLR,Digital Realty Trust Inc,Real Estate,S&P 500,SAP_500
-DFS,Discover Financial Services,Financials,S&P 500,SAP_500
-DISCA,Discovery Inc. (Class A),Communication Services,S&P 500,SAP_500
-DISCK,Discovery Inc. (Class C),Communication Services,S&P 500,SAP_500
-DISH,Dish Network,Communication Services,S&P 500,SAP_500
-DG,Dollar General,Consumer Discretionary,S&P 500,SAP_500
-DLTR,Dollar Tree,Consumer Discretionary,S&P 500,SAP_500
-D,Dominion Energy,Utilities,S&P 500,SAP_500
-DPZ,Domino's Pizza,Consumer Discretionary,S&P 500,SAP_500
-DOV,Dover Corporation,Industrials,S&P 500,SAP_500
-DOW,Dow Inc.,Materials,S&P 500,SAP_500
-DTE,DTE Energy Co.,Utilities,S&P 500,SAP_500
-DUK,Duke Energy,Utilities,S&P 500,SAP_500
-DRE,Duke Realty Corp,Real Estate,S&P 500,SAP_500
-DD,DuPont de Nemours Inc,Materials,S&P 500,SAP_500
-DXC,DXC Technology,Information Technology,S&P 500,SAP_500
-ETFC,E*Trade,Financials,S&P 500,SAP_500
-EMN,Eastman Chemical,Materials,S&P 500,SAP_500
-ETN,Eaton Corporation,Industrials,S&P 500,SAP_500
-EBAY,eBay Inc.,Consumer Discretionary,S&P 500,SAP_500
-ECL,Ecolab Inc.,Materials,S&P 500,SAP_500
-EIX,Edison Int'l,Utilities,S&P 500,SAP_500
-EW,Edwards Lifesciences,Health Care,S&P 500,SAP_500
-EA,Electronic Arts,Communication Services,S&P 500,SAP_500
-EMR,Emerson Electric Company,Industrials,S&P 500,SAP_500
-ETR,Entergy Corp.,Utilities,S&P 500,SAP_500
-EOG,EOG Resources,Energy,S&P 500,SAP_500
-EFX,Equifax Inc.,Industrials,S&P 500,SAP_500
-EQIX,Equinix,Real Estate,S&P 500,SAP_500
-EQR,Equity Residential,Real Estate,S&P 500,SAP_500
-ESS,Essex Property Trust Inc.,Real Estate,S&P 500,SAP_500
-EL,Estée Lauder Companies,Consumer Staples,S&P 500,SAP_500
-RE,Everest Re Group Ltd.,Financials,S&P 500,SAP_500
-EVRG,Evergy,Utilities,S&P 500,SAP_500
-ES,Eversource Energy,Utilities,S&P 500,SAP_500
-EXC,Exelon Corp.,Utilities,S&P 500,SAP_500
-EXPE,Expedia Group,Consumer Discretionary,S&P 500,SAP_500
-EXPD,Expeditors,Industrials,S&P 500,SAP_500
-EXR,Extra Space Storage,Real Estate,S&P 500,SAP_500
-XOM,Exxon Mobil Corp.,Energy,S&P 500,SAP_500
-FFIV,F5 Networks,Information Technology,S&P 500,SAP_500
-FB,Facebook Inc.,Communication Services,S&P 500,SAP_500
-FAST,Fastenal Co,Industrials,S&P 500,SAP_500
-FRT,Federal Realty Investment Trust,Real Estate,S&P 500,SAP_500
-FDX,FedEx Corporation,Industrials,S&P 500,SAP_500
-FIS,Fidelity National Information Services,Information Technology,S&P 500,SAP_500
-FITB,Fifth Third Bancorp,Financials,S&P 500,SAP_500
-FRC,First Republic Bank,Financials,S&P 500,SAP_500
-FE,FirstEnergy Corp,Utilities,S&P 500,SAP_500
-FISV,Fiserv Inc,Information Technology,S&P 500,SAP_500
-FLT,FleetCor Technologies Inc,Information Technology,S&P 500,SAP_500
-FLIR,FLIR Systems,Information Technology,S&P 500,SAP_500
-FLS,Flowserve Corporation,Industrials,S&P 500,SAP_500
-FMC,FMC Corporation,Materials,S&P 500,SAP_500
-F,Ford Motor Company,Consumer Discretionary,S&P 500,SAP_500
-FTNT,Fortinet,Information Technology,S&P 500,SAP_500
-FTV,Fortive Corp,Industrials,S&P 500,SAP_500
-FBHS,Fortune Brands Home & Security,Industrials,S&P 500,SAP_500
-FOXA,Fox Corporation (Class A),Communication Services,S&P 500,SAP_500
-FOX,Fox Corporation (Class B),Communication Services,S&P 500,SAP_500
-BEN,Franklin Resources,Financials,S&P 500,SAP_500
-FCX,Freeport-McMoRan Inc.,Materials,S&P 500,SAP_500
-GPS,Gap Inc.,Consumer Discretionary,S&P 500,SAP_500
-GRMN,Garmin Ltd.,Consumer Discretionary,S&P 500,SAP_500
-IT,Gartner Inc,Information Technology,S&P 500,SAP_500
-GD,General Dynamics,Industrials,S&P 500,SAP_500
-GE,General Electric,Industrials,S&P 500,SAP_500
-GIS,General Mills,Consumer Staples,S&P 500,SAP_500
-GM,General Motors,Consumer Discretionary,S&P 500,SAP_500
-GPC,Genuine Parts,Consumer Discretionary,S&P 500,SAP_500
-GILD,Gilead Sciences,Health Care,S&P 500,SAP_500
-GPN,Global Payments Inc.,Information Technology,S&P 500,SAP_500
-GL,Globe Life Inc.,Financials,S&P 500,SAP_500
-GS,Goldman Sachs Group,Financials,S&P 500,SAP_500
-GWW,Grainger (W.W.) Inc.,Industrials,S&P 500,SAP_500
-HRB,H&R Block,Consumer Discretionary,S&P 500,SAP_500
-HAL,Halliburton Co.,Energy,S&P 500,SAP_500
-HBI,Hanesbrands Inc,Consumer Discretionary,S&P 500,SAP_500
-HIG,Hartford Financial Svc.Gp.,Financials,S&P 500,SAP_500
-HAS,Hasbro Inc.,Consumer Discretionary,S&P 500,SAP_500
-HCA,HCA Healthcare,Health Care,S&P 500,SAP_500
-PEAK,Healthpeak Properties,Real Estate,S&P 500,SAP_500
-HSIC,Henry Schein,Health Care,S&P 500,SAP_500
-HES,Hess Corporation,Energy,S&P 500,SAP_500
-HPE,Hewlett Packard Enterprise,Information Technology,S&P 500,SAP_500
-HLT,Hilton Worldwide Holdings Inc,Consumer Discretionary,S&P 500,SAP_500
-HFC,HollyFrontier Corp,Energy,S&P 500,SAP_500
-HOLX,Hologic,Health Care,S&P 500,SAP_500
-HD,Home Depot,Consumer Discretionary,S&P 500,SAP_500
-HON,Honeywell Int'l Inc.,Industrials,S&P 500,SAP_500
-HRL,Hormel Foods Corp.,Consumer Staples,S&P 500,SAP_500
-HST,Host Hotels & Resorts,Real Estate,S&P 500,SAP_500
-HWM,Howmet Aerospace,Industrials,S&P 500,SAP_500
-HPQ,HP Inc.,Information Technology,S&P 500,SAP_500
-HUM,Humana Inc.,Health Care,S&P 500,SAP_500
-HBAN,Huntington Bancshares,Financials,S&P 500,SAP_500
-HII,Huntington Ingalls Industries,Industrials,S&P 500,SAP_500
-IEX,IDEX Corporation,Industrials,S&P 500,SAP_500
-IDXX,IDEXX Laboratories,Health Care,S&P 500,SAP_500
-INFO,IHS Markit Ltd.,Industrials,S&P 500,SAP_500
-ITW,Illinois Tool Works,Industrials,S&P 500,SAP_500
-ILMN,Illumina Inc,Health Care,S&P 500,SAP_500
-INCY,Incyte,Health Care,S&P 500,SAP_500
-IR,Ingersoll Rand,Industrials,S&P 500,SAP_500
-INTC,Intel Corp.,Information Technology,S&P 500,SAP_500
-ICE,Intercontinental Exchange,Financials,S&P 500,SAP_500
-IBM,International Business Machines,Information Technology,S&P 500,SAP_500
-IFF,International Flavors & Fragrances,Materials,S&P 500,SAP_500
-IP,International Paper,Materials,S&P 500,SAP_500
-IPG,Interpublic Group,Communication Services,S&P 500,SAP_500
-INTU,Intuit Inc.,Information Technology,S&P 500,SAP_500
-ISRG,Intuitive Surgical Inc.,Health Care,S&P 500,SAP_500
-IVZ,Invesco Ltd.,Financials,S&P 500,SAP_500
-IPGP,IPG Photonics Corp.,Information Technology,S&P 500,SAP_500
-IQV,IQVIA Holdings Inc.,Health Care,S&P 500,SAP_500
-IRM,Iron Mountain Incorporated,Real Estate,S&P 500,SAP_500
-JBHT,J. B. Hunt Transport Services,Industrials,S&P 500,SAP_500
-JKHY,Jack Henry & Associates,Information Technology,S&P 500,SAP_500
-J,Jacobs Engineering Group,Industrials,S&P 500,SAP_500
-SJM,JM Smucker,Consumer Staples,S&P 500,SAP_500
-JNJ,Johnson & Johnson,Health Care,S&P 500,SAP_500
-JCI,Johnson Controls International,Industrials,S&P 500,SAP_500
-JPM,JPMorgan Chase & Co.,Financials,S&P 500,SAP_500
-JNPR,Juniper Networks,Information Technology,S&P 500,SAP_500
-KSU,Kansas City Southern,Industrials,S&P 500,SAP_500
-K,Kellogg Co.,Consumer Staples,S&P 500,SAP_500
-KEY,KeyCorp,Financials,S&P 500,SAP_500
-KEYS,Keysight Technologies,Information Technology,S&P 500,SAP_500
-KMB,Kimberly-Clark,Consumer Staples,S&P 500,SAP_500
-KIM,Kimco Realty,Real Estate,S&P 500,SAP_500
-KMI,Kinder Morgan,Energy,S&P 500,SAP_500
-KLAC,KLA Corporation,Information Technology,S&P 500,SAP_500
-KSS,Kohl's Corp.,Consumer Discretionary,S&P 500,SAP_500
-KHC,Kraft Heinz Co,Consumer Staples,S&P 500,SAP_500
-KR,Kroger Co.,Consumer Staples,S&P 500,SAP_500
-LB,L Brands Inc.,Consumer Discretionary,S&P 500,SAP_500
-LHX,L3Harris Technologies,Industrials,S&P 500,SAP_500
-LH,Laboratory Corp. of America Holding,Health Care,S&P 500,SAP_500
-LRCX,Lam Research,Information Technology,S&P 500,SAP_500
-LW,Lamb Weston Holdings Inc,Consumer Staples,S&P 500,SAP_500
-LVS,Las Vegas Sands,Consumer Discretionary,S&P 500,SAP_500
-LEG,Leggett & Platt,Consumer Discretionary,S&P 500,SAP_500
-LDOS,Leidos Holdings,Information Technology,S&P 500,SAP_500
-LEN,Lennar Corp.,Consumer Discretionary,S&P 500,SAP_500
-LLY,Lilly (Eli) & Co.,Health Care,S&P 500,SAP_500
-LNC,Lincoln National,Financials,S&P 500,SAP_500
-LIN,Linde plc,Materials,S&P 500,SAP_500
-LYV,Live Nation Entertainment,Communication Services,S&P 500,SAP_500
-LKQ,LKQ Corporation,Consumer Discretionary,S&P 500,SAP_500
-LMT,Lockheed Martin Corp.,Industrials,S&P 500,SAP_500
-L,Loews Corp.,Financials,S&P 500,SAP_500
-LOW,Lowe's Cos.,Consumer Discretionary,S&P 500,SAP_500
-LYB,LyondellBasell,Materials,S&P 500,SAP_500
-MTB,M&T Bank Corp.,Financials,S&P 500,SAP_500
-MRO,Marathon Oil Corp.,Energy,S&P 500,SAP_500
-MPC,Marathon Petroleum,Energy,S&P 500,SAP_500
-MKTX,MarketAxess,Financials,S&P 500,SAP_500
-MAR,Marriott Int'l.,Consumer Discretionary,S&P 500,SAP_500
-MMC,Marsh & McLennan,Financials,S&P 500,SAP_500
-MLM,Martin Marietta Materials,Materials,S&P 500,SAP_500
-MAS,Masco Corp.,Industrials,S&P 500,SAP_500
-MA,Mastercard Inc.,Information Technology,S&P 500,SAP_500
-MXIM,Maxim Integrated Products Inc,Information Technology,S&P 500,SAP_500
-MKC,McCormick & Co.,Consumer Staples,S&P 500,SAP_500
-MCD,McDonald's Corp.,Consumer Discretionary,S&P 500,SAP_500
-MCK,McKesson Corp.,Health Care,S&P 500,SAP_500
-MDT,Medtronic plc,Health Care,S&P 500,SAP_500
-MRK,Merck & Co.,Health Care,S&P 500,SAP_500
-MET,MetLife Inc.,Financials,S&P 500,SAP_500
-MTD,Mettler Toledo,Health Care,S&P 500,SAP_500
-MGM,MGM Resorts International,Consumer Discretionary,S&P 500,SAP_500
-MCHP,Microchip Technology,Information Technology,S&P 500,SAP_500
-MU,Micron Technology,Information Technology,S&P 500,SAP_500
-MSFT,Microsoft Corp.,Information Technology,S&P 500,SAP_500
-MAA,Mid-America Apartments,Real Estate,S&P 500,SAP_500
-MHK,Mohawk Industries,Consumer Discretionary,S&P 500,SAP_500
-TAP,Molson Coors Beverage Company,Consumer Staples,S&P 500,SAP_500
-MDLZ,Mondelez International,Consumer Staples,S&P 500,SAP_500
-MNST,Monster Beverage,Consumer Staples,S&P 500,SAP_500
-MCO,Moody's Corp,Financials,S&P 500,SAP_500
-MS,Morgan Stanley,Financials,S&P 500,SAP_500
-MSI,Motorola Solutions Inc.,Information Technology,S&P 500,SAP_500
-MSCI,MSCI Inc,Financials,S&P 500,SAP_500
-MYL,Mylan N.V.,Health Care,S&P 500,SAP_500
-NDAQ,Nasdaq Inc.,Financials,S&P 500,SAP_500
-NOV,National Oilwell Varco Inc.,Energy,S&P 500,SAP_500
-NTAP,NetApp,Information Technology,S&P 500,SAP_500
-NFLX,Netflix Inc.,Communication Services,S&P 500,SAP_500
-NWL,Newell Brands,Consumer Discretionary,S&P 500,SAP_500
-NEM,Newmont Corporation,Materials,S&P 500,SAP_500
-NWSA,News Corp. Class A,Communication Services,S&P 500,SAP_500
-NWS,News Corp. Class B,Communication Services,S&P 500,SAP_500
-NEE,NextEra Energy,Utilities,S&P 500,SAP_500
-NLSN,Nielsen Holdings,Industrials,S&P 500,SAP_500
-NKE,Nike Inc.,Consumer Discretionary,S&P 500,SAP_500
-NI,NiSource Inc.,Utilities,S&P 500,SAP_500
-NBL,Noble Energy,Energy,S&P 500,SAP_500
-NSC,Norfolk Southern Corp.,Industrials,S&P 500,SAP_500
-NTRS,Northern Trust Corp.,Financials,S&P 500,SAP_500
-NOC,Northrop Grumman,Industrials,S&P 500,SAP_500
-NLOK,NortonLifeLock,Information Technology,S&P 500,SAP_500
-NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,S&P 500,SAP_500
-NRG,NRG Energy,Utilities,S&P 500,SAP_500
-NUE,Nucor Corp.,Materials,S&P 500,SAP_500
-NVDA,Nvidia Corporation,Information Technology,S&P 500,SAP_500
-NVR,NVR Inc.,Consumer Discretionary,S&P 500,SAP_500
-ORLY,O'Reilly Automotive,Consumer Discretionary,S&P 500,SAP_500
-OXY,Occidental Petroleum,Energy,S&P 500,SAP_500
-ODFL,Old Dominion Freight Line,Industrials,S&P 500,SAP_500
-OMC,Omnicom Group,Communication Services,S&P 500,SAP_500
-OKE,ONEOK,Energy,S&P 500,SAP_500
-ORCL,Oracle Corp.,Information Technology,S&P 500,SAP_500
-OTIS,Otis Worldwide,Industrials,S&P 500,SAP_500
-PCAR,PACCAR Inc.,Industrials,S&P 500,SAP_500
-PKG,Packaging Corporation of America,Materials,S&P 500,SAP_500
-PH,Parker-Hannifin,Industrials,S&P 500,SAP_500
-PAYX,Paychex Inc.,Information Technology,S&P 500,SAP_500
-PAYC,Paycom,Information Technology,S&P 500,SAP_500
-PYPL,PayPal,Information Technology,S&P 500,SAP_500
-PNR,Pentair plc,Industrials,S&P 500,SAP_500
-PBCT,People's United Financial,Financials,S&P 500,SAP_500
-PEP,PepsiCo Inc.,Consumer Staples,S&P 500,SAP_500
-PKI,PerkinElmer,Health Care,S&P 500,SAP_500
-PRGO,Perrigo,Health Care,S&P 500,SAP_500
-PFE,Pfizer Inc.,Health Care,S&P 500,SAP_500
-PM,Philip Morris International,Consumer Staples,S&P 500,SAP_500
-PSX,Phillips 66,Energy,S&P 500,SAP_500
-PNW,Pinnacle West Capital,Utilities,S&P 500,SAP_500
-PXD,Pioneer Natural Resources,Energy,S&P 500,SAP_500
-PNC,PNC Financial Services,Financials,S&P 500,SAP_500
-PPG,PPG Industries,Materials,S&P 500,SAP_500
-PPL,PPL Corp.,Utilities,S&P 500,SAP_500
-PFG,Principal Financial Group,Financials,S&P 500,SAP_500
-PG,Procter & Gamble,Consumer Staples,S&P 500,SAP_500
-PGR,Progressive Corp.,Financials,S&P 500,SAP_500
-PLD,Prologis,Real Estate,S&P 500,SAP_500
-PRU,Prudential Financial,Financials,S&P 500,SAP_500
-PEG,Public Service Enterprise Group (PSEG),Utilities,S&P 500,SAP_500
-PSA,Public Storage,Real Estate,S&P 500,SAP_500
-PHM,PulteGroup,Consumer Discretionary,S&P 500,SAP_500
-PVH,PVH Corp.,Consumer Discretionary,S&P 500,SAP_500
-QRVO,Qorvo,Information Technology,S&P 500,SAP_500
-QCOM,QUALCOMM Inc.,Information Technology,S&P 500,SAP_500
-PWR,Quanta Services Inc.,Industrials,S&P 500,SAP_500
-DGX,Quest Diagnostics,Health Care,S&P 500,SAP_500
-RL,Ralph Lauren Corporation,Consumer Discretionary,S&P 500,SAP_500
-RJF,Raymond James Financial Inc.,Financials,S&P 500,SAP_500
-RTX,Raytheon Technologies,Industrials,S&P 500,SAP_500
-O,Realty Income Corporation,Real Estate,S&P 500,SAP_500
-REG,Regency Centers Corporation,Real Estate,S&P 500,SAP_500
-REGN,Regeneron Pharmaceuticals,Health Care,S&P 500,SAP_500
-RF,Regions Financial Corp.,Financials,S&P 500,SAP_500
-RSG,Republic Services Inc,Industrials,S&P 500,SAP_500
-RMD,ResMed,Health Care,S&P 500,SAP_500
-RHI,Robert Half International,Industrials,S&P 500,SAP_500
-ROK,Rockwell Automation Inc.,Industrials,S&P 500,SAP_500
-ROL,Rollins Inc.,Industrials,S&P 500,SAP_500
-ROP,Roper Technologies,Industrials,S&P 500,SAP_500
-ROST,Ross Stores,Consumer Discretionary,S&P 500,SAP_500
-RCL,Royal Caribbean Group,Consumer Discretionary,S&P 500,SAP_500
-SPGI,S&P Global Inc.,Financials,S&P 500,SAP_500
-CRM,Salesforce.com,Information Technology,S&P 500,SAP_500
-SBAC,SBA Communications,Real Estate,S&P 500,SAP_500
-SLB,Schlumberger Ltd.,Energy,S&P 500,SAP_500
-STX,Seagate Technology,Information Technology,S&P 500,SAP_500
-SEE,Sealed Air,Materials,S&P 500,SAP_500
-SRE,Sempra Energy,Utilities,S&P 500,SAP_500
-NOW,ServiceNow,Information Technology,S&P 500,SAP_500
-SHW,Sherwin-Williams,Materials,S&P 500,SAP_500
-SPG,Simon Property Group Inc,Real Estate,S&P 500,SAP_500
-SWKS,Skyworks Solutions,Information Technology,S&P 500,SAP_500
-SLG,SL Green Realty,Real Estate,S&P 500,SAP_500
-SNA,Snap-on,Industrials,S&P 500,SAP_500
-SO,Southern Company,Utilities,S&P 500,SAP_500
-LUV,Southwest Airlines,Industrials,S&P 500,SAP_500
-SWK,Stanley Black & Decker,Industrials,S&P 500,SAP_500
-SBUX,Starbucks Corp.,Consumer Discretionary,S&P 500,SAP_500
-STT,State Street Corp.,Financials,S&P 500,SAP_500
-STE,STERIS plc,Health Care,S&P 500,SAP_500
-SYK,Stryker Corp.,Health Care,S&P 500,SAP_500
-SIVB,SVB Financial,Financials,S&P 500,SAP_500
-SYF,Synchrony Financial,Financials,S&P 500,SAP_500
-SNPS,Synopsys Inc.,Information Technology,S&P 500,SAP_500
-SYY,Sysco Corp.,Consumer Staples,S&P 500,SAP_500
-TMUS,T-Mobile US,Communication Services,S&P 500,SAP_500
-TROW,T. Rowe Price Group,Financials,S&P 500,SAP_500
-TTWO,Take-Two Interactive,Communication Services,S&P 500,SAP_500
-TPR,Tapestry Inc.,Consumer Discretionary,S&P 500,SAP_500
-TGT,Target Corp.,Consumer Discretionary,S&P 500,SAP_500
-TEL,TE Connectivity Ltd.,Information Technology,S&P 500,SAP_500
-FTI,TechnipFMC,Energy,S&P 500,SAP_500
-TDY,Teledyne Technologies,Industrials,S&P 500,SAP_500
-TFX,Teleflex,Health Care,S&P 500,SAP_500
-TXN,Texas Instruments,Information Technology,S&P 500,SAP_500
-TXT,Textron Inc.,Industrials,S&P 500,SAP_500
-BK,The Bank of New York Mellon,Financials,S&P 500,SAP_500
-CLX,The Clorox Company,Consumer Staples,S&P 500,SAP_500
-COO,The Cooper Companies,Health Care,S&P 500,SAP_500
-HSY,The Hershey Company,Consumer Staples,S&P 500,SAP_500
-MOS,The Mosaic Company,Materials,S&P 500,SAP_500
-TRV,The Travelers Companies Inc.,Financials,S&P 500,SAP_500
-DIS,The Walt Disney Company,Communication Services,S&P 500,SAP_500
-TMO,Thermo Fisher Scientific,Health Care,S&P 500,SAP_500
-TIF,Tiffany & Co.,Consumer Discretionary,S&P 500,SAP_500
-TJX,TJX Companies Inc.,Consumer Discretionary,S&P 500,SAP_500
-TSCO,Tractor Supply Company,Consumer Discretionary,S&P 500,SAP_500
-TT,Trane Technologies plc,Industrials,S&P 500,SAP_500
-TDG,TransDigm Group,Industrials,S&P 500,SAP_500
-TFC,Truist Financial,Financials,S&P 500,SAP_500
-TWTR,Twitter Inc.,Communication Services,S&P 500,SAP_500
-TYL,Tyler Technologies,Information Technology,S&P 500,SAP_500
-TSN,Tyson Foods,Consumer Staples,S&P 500,SAP_500
-USB,U.S. Bancorp,Financials,S&P 500,SAP_500
-UDR,UDR Inc.,Real Estate,S&P 500,SAP_500
-ULTA,Ulta Beauty,Consumer Discretionary,S&P 500,SAP_500
-UAA,Under Armour (Class A),Consumer Discretionary,S&P 500,SAP_500
-UA,Under Armour (Class C),Consumer Discretionary,S&P 500,SAP_500
-UNP,Union Pacific Corp,Industrials,S&P 500,SAP_500
-UAL,United Airlines Holdings,Industrials,S&P 500,SAP_500
-UNH,United Health Group Inc.,Health Care,S&P 500,SAP_500
-UPS,United Parcel Service,Industrials,S&P 500,SAP_500
-URI,United Rentals Inc.,Industrials,S&P 500,SAP_500
-UHS,Universal Health Services,Health Care,S&P 500,SAP_500
-UNM,Unum Group,Financials,S&P 500,SAP_500
-VLO,Valero Energy,Energy,S&P 500,SAP_500
-VAR,Varian Medical Systems,Health Care,S&P 500,SAP_500
-VTR,Ventas Inc,Real Estate,S&P 500,SAP_500
-VRSN,Verisign Inc.,Information Technology,S&P 500,SAP_500
-VRSK,Verisk Analytics,Industrials,S&P 500,SAP_500
-VZ,Verizon Communications,Communication Services,S&P 500,SAP_500
-VRTX,Vertex Pharmaceuticals Inc,Health Care,S&P 500,SAP_500
-VFC,VF Corporation,Consumer Discretionary,S&P 500,SAP_500
-VIAC,ViacomCBS,Communication Services,S&P 500,SAP_500
-V,Visa Inc.,Information Technology,S&P 500,SAP_500
-VNO,Vornado Realty Trust,Real Estate,S&P 500,SAP_500
-VMC,Vulcan Materials,Materials,S&P 500,SAP_500
-WRB,W. R. Berkley Corporation,Financials,S&P 500,SAP_500
-WAB,Wabtec Corporation,Industrials,S&P 500,SAP_500
-WBA,Walgreens Boots Alliance,Consumer Staples,S&P 500,SAP_500
-WMT,Walmart,Consumer Staples,S&P 500,SAP_500
-WM,Waste Management Inc.,Industrials,S&P 500,SAP_500
-WAT,Waters Corporation,Health Care,S&P 500,SAP_500
-WEC,WEC Energy Group,Utilities,S&P 500,SAP_500
-WFC,Wells Fargo,Financials,S&P 500,SAP_500
-WELL,Welltower Inc.,Real Estate,S&P 500,SAP_500
-WST,West Pharmaceutical Services,Health Care,S&P 500,SAP_500
-WDC,Western Digital,Information Technology,S&P 500,SAP_500
-WU,Western Union Co,Information Technology,S&P 500,SAP_500
-WRK,WestRock,Materials,S&P 500,SAP_500
-WY,Weyerhaeuser,Real Estate,S&P 500,SAP_500
-WHR,Whirlpool Corp.,Consumer Discretionary,S&P 500,SAP_500
-WMB,Williams Companies,Energy,S&P 500,SAP_500
-WLTW,Willis Towers Watson,Financials,S&P 500,SAP_500
-WYNN,Wynn Resorts Ltd,Consumer Discretionary,S&P 500,SAP_500
-XEL,Xcel Energy Inc,Utilities,S&P 500,SAP_500
-XRX,Xerox,Information Technology,S&P 500,SAP_500
-XLNX,Xilinx,Information Technology,S&P 500,SAP_500
-XYL,Xylem Inc.,Industrials,S&P 500,SAP_500
-YUM,Yum! Brands Inc,Consumer Discretionary,S&P 500,SAP_500
-ZBRA,Zebra Technologies,Information Technology,S&P 500,SAP_500
-ZBH,Zimmer Biomet Holdings,Health Care,S&P 500,SAP_500
-ZION,Zions Bancorp,Financials,S&P 500,SAP_500
-ZTS,Zoetis,Health Care,S&P 500,SAP_500
+name,sector,source,alias,acc,acc_30,acc_7
+3M Company,Industrials,S&P 500,SAP_500,0.8533968774572451,0.9608028484340292,0.9818210695894612
+A.O. Smith Corp,Industrials,S&P 500,SAP_500,0.8721645227342166,0.9835238938360067,0.9854307996785251
+Abbott Laboratories,Health Care,S&P 500,SAP_500,0.9007485195728515,0.990208041273385,0.988218270782779
+AbbVie Inc.,Health Care,S&P 500,SAP_500,0.912939308975288,0.9792096728307116,0.9872606926320608
+ABIOMED Inc,Health Care,S&P 500,SAP_500,0.835908624033053,0.9350746665494274,0.9689599285604217
+Accenture plc,Information Technology,S&P 500,SAP_500,0.9580541967307243,0.9845332506431128,0.9888692961048471
+Activision Blizzard,Communication Services,S&P 500,SAP_500,0.8804194265034359,0.9841979428387363,0.9902879305479739
+Adobe Inc.,Information Technology,S&P 500,SAP_500,0.5043634830193653,0.9585966367828139,0.9929455814209381
+Advance Auto Parts,Consumer Discretionary,S&P 500,SAP_500,0.852296234836924,0.9725590001814287,0.9760275526962598
+Advanced Micro Devices Inc,Information Technology,S&P 500,SAP_500,2.5245491322202924,0.9745186441823639,0.9838571709288272
+AES Corp,Utilities,S&P 500,SAP_500,0.803177682856626,0.9477995469563971,0.974594092910369
+AFLAC Inc,Financials,S&P 500,SAP_500,0.8757168429823969,0.9813432182438597,0.9824230424105173
+Agilent Technologies Inc,Health Care,S&P 500,SAP_500,0.8998789170517112,0.9805245039336047,0.9882173676034519
+Air Products & Chemicals Inc,Materials,S&P 500,SAP_500,0.9223353857397111,0.9767443332957866,0.9821921002698196
+Akamai Technologies Inc,Information Technology,S&P 500,SAP_500,0.8079087010963055,0.9674565541516096,0.9748129349583239
+Alaska Air Group Inc,Industrials,S&P 500,SAP_500,0.8034322528428626,0.976105584579396,0.9772403329925017
+Albemarle Corp,Materials,S&P 500,SAP_500,0.8531961022066074,0.9381268446765604,0.985074193275436
+Alexandria Real Estate Equities,Real Estate,S&P 500,SAP_500,0.9308931525524283,0.957122455179573,0.9904710748843379
+Alexion Pharmaceuticals,Health Care,S&P 500,SAP_500,0.8990309018661918,0.9606409321685007,0.9752772533203572
+Align Technology,Health Care,S&P 500,SAP_500,0.8262682045032128,0.9860364134430506,0.9807013226217098
+Allegion,Industrials,S&P 500,SAP_500,0.9527765923515373,0.9744655748304436,0.9800953699366521
+Alliant Energy Corp,Utilities,S&P 500,SAP_500,0.9483616620752745,0.9625233594701388,0.9835068312445442
+Allstate Corp,Financials,S&P 500,SAP_500,0.9506643210217625,0.9898103527061639,0.9899066178560274
+Alphabet Inc. (Class A),Communication Services,S&P 500,SAP_500,0.9716668156110875,0.9770674501429915,0.9742336765344637
+Alphabet Inc. (Class C),Communication Services,S&P 500,SAP_500,0.9661626023983694,0.9764155366978116,0.974258978096663
+Altria Group Inc,Consumer Staples,S&P 500,SAP_500,0.8222883086216242,0.96703797189017,0.989187725127435
+Amazon.com Inc.,Consumer Discretionary,S&P 500,SAP_500,0.8652592067436449,0.979854051318802,0.9891768146997576
+Amcor plc,Materials,S&P 500,SAP_500,0.802421290013284,0.9605541845853753,0.9885543111814107
+Ameren Corp,Utilities,S&P 500,SAP_500,0.9625112644229475,0.9692444212594864,0.9734495981721779
+American Airlines Group,Industrials,S&P 500,SAP_500,0.6808011011083196,0.9527292698068426,0.9685401918745883
+American Electric Power,Utilities,S&P 500,SAP_500,0.9502361704061253,0.9588765392797999,0.9888754389888045
+American Express Co,Financials,S&P 500,SAP_500,0.9448433004597776,0.9778312703110968,0.9656812079721858
+American International Group,Financials,S&P 500,SAP_500,0.7733345257714478,0.9715233855696084,0.9740024469944669
+American Tower Corp.,Real Estate,S&P 500,SAP_500,0.7930758971326528,0.9717397622724694,0.9800639983736739
+American Water Works Company Inc,Utilities,S&P 500,SAP_500,0.8463508836516533,0.985300242197974,0.9926731410466846
+Ameriprise Financial,Financials,S&P 500,SAP_500,0.9199522412839726,0.9774880770704499,0.9887902785003388
+AmerisourceBergen Corp,Health Care,S&P 500,SAP_500,0.9169247938236854,0.9590928297420074,0.9793394338619095
+AMETEK Inc.,Industrials,S&P 500,SAP_500,0.9637352699463276,0.9798838662285309,0.9876311802829881
+Amgen Inc.,Health Care,S&P 500,SAP_500,0.9394464865174718,0.9582891753051919,0.9886505936323728
+Amphenol Corp,Information Technology,S&P 500,SAP_500,0.9433020468297476,0.9847920438068825,0.9885329079759977
+Analog Devices Inc.,Information Technology,S&P 500,SAP_500,0.9215394139948891,0.9694268949683346,0.97523502121799
+ANSYS,Information Technology,S&P 500,SAP_500,0.7150020075153118,0.9815826254507213,0.9845199249387283
+Anthem,Health Care,S&P 500,SAP_500,0.8424592287031193,0.9767569780979805,0.9855584000593562
+Aon plc,Financials,S&P 500,SAP_500,0.9436025620818559,0.9755656110453913,0.98657835612604
+Apache Corporation,Energy,S&P 500,SAP_500,0.7613026919281594,0.9211278218375565,0.9506145867416526
+Apartment Investment & Management,Real Estate,S&P 500,SAP_500,0.31890539726892364,0.8315340455479947,0.8680568655506229
+Apple Inc.,Information Technology,S&P 500,SAP_500,0.7414373991862052,0.9771108589800879,0.9668731013283232
+Applied Materials Inc.,Information Technology,S&P 500,SAP_500,0.8022460696514079,0.9379646403321173,0.9808642407229096
+Aptiv PLC,Consumer Discretionary,S&P 500,SAP_500,0.907535917615189,0.965230670554645,0.985181389778579
+Archer-Daniels-Midland Co,Consumer Staples,S&P 500,SAP_500,0.8513261643102793,0.9793034619913388,0.9868422395404379
+Arista Networks,Information Technology,S&P 500,SAP_500,0.6503084651670236,0.9693563689635867,0.9855269545751888
+Arthur J. Gallagher & Co.,Financials,S&P 500,SAP_500,0.9550231936936645,0.9686581452368547,0.9899524778002475
+Assurant,Financials,S&P 500,SAP_500,0.9542886458474074,0.982047555725182,0.9707678400876124
+AT&T Inc.,Communication Services,S&P 500,SAP_500,0.8427083357212366,0.9729441592121714,0.9862907663148116
+Atmos Energy,Utilities,S&P 500,SAP_500,0.8875548579844861,0.9387711133346301,0.9794054230423221
+Autodesk Inc.,Information Technology,S&P 500,SAP_500,0.667219866077694,0.9831477874199791,0.985393839635234
+Automatic Data Processing,Information Technology,S&P 500,SAP_500,0.9473298348106581,0.9449498456351115,0.9857304325433277
+AutoZone Inc,Consumer Discretionary,S&P 500,SAP_500,0.8721410870392586,0.9777335249142898,0.9746324601375431
+AvalonBay Communities,Real Estate,S&P 500,SAP_500,0.9218157647521958,0.9817743311460386,0.9912986129727102
+Avery Dennison Corp,Materials,S&P 500,SAP_500,0.926520934878416,0.983795770783557,0.9866142693314609
+Baker Hughes Co,Energy,S&P 500,SAP_500,0.7600178051820893,0.9669009981683977,0.9758476638550656
+Ball Corp,Materials,S&P 500,SAP_500,0.7494670609714809,0.9878255543705001,0.9878731033625215
+Bank of America Corp,Financials,S&P 500,SAP_500,0.924510566428213,0.9548411451275911,0.9604328892702885
+Baxter International Inc.,Health Care,S&P 500,SAP_500,0.838058749589133,0.9784909674258664,0.9886237231872359
+Becton Dickinson,Health Care,S&P 500,SAP_500,0.947273429350983,0.9716406003128711,0.9750142588374291
+Berkshire Hathaway,Financials,S&P 500,SAP_500,0.9645570430011486,0.9858675322126202,0.9809439884033898
+Best Buy Co. Inc.,Consumer Discretionary,S&P 500,SAP_500,0.9043288917161567,0.9654039844445403,0.9955859198428664
+Bio-Rad Laboratories,Health Care,S&P 500,SAP_500,0.8521247031340724,0.9773875148279213,0.9757743109508282
+Biogen Inc.,Health Care,S&P 500,SAP_500,0.8981497929349762,0.9573568389150193,0.9833557726461482
+BlackRock,Financials,S&P 500,SAP_500,0.9452932948471976,0.9800263119892668,0.9896425499632169
+Boeing Company,Industrials,S&P 500,SAP_500,0.833795657618966,0.934658779262294,0.9697951508127832
+Booking Holdings Inc,Consumer Discretionary,S&P 500,SAP_500,0.9193475235115055,0.9786777454622783,0.9836079678897128
+BorgWarner,Consumer Discretionary,S&P 500,SAP_500,0.777894270929725,0.968031137670692,0.9516865635924312
+Boston Properties,Real Estate,S&P 500,SAP_500,0.8897587666268612,0.9377226744556426,0.9762369268164272
+Boston Scientific,Health Care,S&P 500,SAP_500,0.9081075823623131,0.9662287772934891,0.9615363146702075
+Bristol-Myers Squibb,Health Care,S&P 500,SAP_500,0.8835631957146606,0.9756105536261426,0.9740673473617181
+Broadcom Inc.,Information Technology,S&P 500,SAP_500,0.94456518185587,0.9814275670434959,0.980873376762197
+Broadridge Financial Solutions,Information Technology,S&P 500,SAP_500,0.9451071657073506,0.9834983200860404,0.9864743777644512
+Brown-Forman Corp.,Consumer Staples,S&P 500,SAP_500,0.933929067543425,0.9540674929378014,0.9718198065462961
+C. H. Robinson Worldwide,Industrials,S&P 500,SAP_500,0.9178690340122436,0.9876742341063095,0.9891775951135987
+Cabot Oil & Gas,Energy,S&P 500,SAP_500,0.706543183215864,0.9351031694227244,0.9874889610747005
+Cadence Design Systems,Information Technology,S&P 500,SAP_500,0.663206774867546,0.9728907663573222,0.9790544590358877
+Campbell Soup,Consumer Staples,S&P 500,SAP_500,0.8293783355934576,0.9598723156771959,0.9819557750576281
+Capital One Financial,Financials,S&P 500,SAP_500,0.804591466102113,0.9487811374698563,0.959227819311681
+Cardinal Health Inc.,Health Care,S&P 500,SAP_500,0.7668022291667675,0.9843713492936585,0.9922467464492891
+Carmax Inc,Consumer Discretionary,S&P 500,SAP_500,0.8812305952841176,0.9282753975368997,0.951981353351837
+Carnival Corp.,Consumer Discretionary,S&P 500,SAP_500,0.7443919230811241,0.9551745571132982,0.9522519898869352
+Carrier Global,Industrials,S&P 500,SAP_500,,0.976777381523063,0.968570633574706
+Caterpillar Inc.,Industrials,S&P 500,SAP_500,0.9053896968381648,0.9721480441967015,0.9753818678648251
+Cboe Global Markets,Financials,S&P 500,SAP_500,0.9166624878825758,0.9634849896683213,0.9761899222513142
+CBRE Group,Real Estate,S&P 500,SAP_500,0.9514774863276226,0.971655805959725,0.9929557281309423
+CDW,Information Technology,S&P 500,SAP_500,0.7242661525550498,0.9827415538988578,0.9921463310749197
+Celanese,Materials,S&P 500,SAP_500,0.9063249633790398,0.9763541868286549,0.9794181644760578
+Centene Corporation,Health Care,S&P 500,SAP_500,0.8963947522234473,0.940946832076033,0.9800596649841443
+CenterPoint Energy,Utilities,S&P 500,SAP_500,0.5729882376139748,0.9828363713832791,0.9747138467474915
+CenturyLink Inc,Communication Services,S&P 500,SAP_500,,,
+Cerner,Health Care,S&P 500,SAP_500,0.8942814408257496,0.9880699983132497,0.985683499167323
+CF Industries Holdings Inc,Materials,S&P 500,SAP_500,0.8383246321161486,0.9410149630479209,0.972135608169279
+Charles Schwab Corporation,Financials,S&P 500,SAP_500,0.8983126790604561,0.9588209666513429,0.9898467282015132
+Charter Communications,Communication Services,S&P 500,SAP_500,0.8524831759632951,0.9727530366688275,0.9883512832865246
+Chevron Corp.,Energy,S&P 500,SAP_500,0.9225827285940678,0.9641116199289513,0.9660284963405176
+Chipotle Mexican Grill,Consumer Discretionary,S&P 500,SAP_500,0.6597937810605382,0.9758660019261473,0.976764659164597
+Chubb Limited,Financials,S&P 500,SAP_500,0.9118446998661355,0.9831724347220456,0.9767322594046991
+Church & Dwight,Consumer Staples,S&P 500,SAP_500,0.9360237402557557,0.9894731319460038,0.9850634477768937
+CIGNA Corp.,Health Care,S&P 500,SAP_500,0.9094109636064183,0.9810743214842668,0.9851778206773757
+Cincinnati Financial,Financials,S&P 500,SAP_500,0.9009925605488678,0.9503219889615135,0.9208958234634893
+Cintas Corporation,Industrials,S&P 500,SAP_500,0.8054967011999767,0.958878702401488,0.9847056511745252
+Cisco Systems,Information Technology,S&P 500,SAP_500,0.9149944729588853,0.9835653931377284,0.9839061028582776
+Citigroup Inc.,Financials,S&P 500,SAP_500,0.884299634588855,0.9759861950992273,0.9677148522479888
+Citizens Financial Group,Financials,S&P 500,SAP_500,0.8448682381069901,0.9580330304251443,0.973544401071043
+Citrix Systems,Information Technology,S&P 500,SAP_500,0.8558944816385824,0.9726012669269586,0.9604686027677526
+CME Group Inc.,Financials,S&P 500,SAP_500,0.860648598505361,0.9650736078206474,0.98674999234804
+CMS Energy,Utilities,S&P 500,SAP_500,0.9227158695729044,0.9616558867938491,0.9767734202188061
+Coca-Cola Company,Consumer Staples,S&P 500,SAP_500,0.8914090231142751,0.9402030842436938,0.9873681690337488
+Cognizant Technology Solutions,Information Technology,S&P 500,SAP_500,0.8493299268156221,0.9808054086474411,0.9897349897078338
+Colgate-Palmolive,Consumer Staples,S&P 500,SAP_500,0.9070095458721349,0.9665405404061623,0.9622203096182013
+Comcast Corp.,Communication Services,S&P 500,SAP_500,0.7694287713857445,0.979384231185552,0.9845840098349039
+Comerica Inc.,Financials,S&P 500,SAP_500,0.7419067712070477,0.9538761490574161,0.9754543384153083
+Conagra Brands,Consumer Staples,S&P 500,SAP_500,0.7061946553410776,0.9653989386590154,0.974203141347482
+Concho Resources,Energy,S&P 500,SAP_500,,,
+ConocoPhillips,Energy,S&P 500,SAP_500,0.8710906029035158,0.9365716849377705,0.9540051795085926
+Consolidated Edison,Utilities,S&P 500,SAP_500,0.9217338565860123,0.9568215992220924,0.9833696031266657
+Constellation Brands,Consumer Staples,S&P 500,SAP_500,0.8499492544082772,0.9792423746858036,0.9798198793704068
+Copart Inc,Industrials,S&P 500,SAP_500,0.6335296867260529,0.9646157300285232,0.9869978422959998
+Corning Inc.,Information Technology,S&P 500,SAP_500,0.8873370941940782,0.9830910217984891,0.9860839561147008
+Corteva,Materials,S&P 500,SAP_500,,0.9663699944851737,0.9807555295392251
+Costco Wholesale Corp.,Consumer Staples,S&P 500,SAP_500,0.8531546544253473,0.9801895248543984,0.9813778602759012
+Coty Inc,Consumer Staples,S&P 500,SAP_500,0.6479340485600638,0.9494859353055718,0.928728740794856
+Crown Castle International Corp.,Real Estate,S&P 500,SAP_500,0.905781215632375,0.9750011962086438,0.9837079052378203
+CSX Corp.,Industrials,S&P 500,SAP_500,0.8876253848935785,0.9763151199370694,0.972364622392365
+Cummins Inc.,Industrials,S&P 500,SAP_500,0.9043049476736833,0.9768686307355265,0.9814127204085209
+CVS Health,Health Care,S&P 500,SAP_500,0.8393413067207491,0.9609393107756002,0.9728810812091723
+D. R. Horton,Consumer Discretionary,S&P 500,SAP_500,0.9325557276357603,0.9660677819346551,0.9818837725309134
+Danaher Corp.,Health Care,S&P 500,SAP_500,0.8588410991787976,0.9778818043290306,0.9858325164049135
+Darden Restaurants,Consumer Discretionary,S&P 500,SAP_500,0.8882335277244999,0.9804802770283136,0.9734074607475824
+DaVita Inc.,Health Care,S&P 500,SAP_500,0.8496549903298549,0.9788247323034649,0.9912818973423668
+Deere & Co.,Industrials,S&P 500,SAP_500,0.9307886190147096,0.9657253127398968,0.9950209600504751
+Delta Air Lines Inc.,Industrials,S&P 500,SAP_500,0.70662855550115,0.971772121801082,0.9794196745561782
+Dentsply Sirona,Health Care,S&P 500,SAP_500,0.8495116237904041,0.9578680130845246,0.9759799780600505
+Devon Energy,Energy,S&P 500,SAP_500,0.10633508280209714,0.7752459422223297,0.834538707245482
+DexCom,Health Care,S&P 500,SAP_500,0.1274865575746702,0.963997050095188,0.964405988801732
+Diamondback Energy,Energy,S&P 500,SAP_500,0.7873984271401474,0.9290727757446928,0.9730977440473325
+Digital Realty Trust Inc,Real Estate,S&P 500,SAP_500,0.9038309913945571,0.9652778162389057,0.9799176342219733
+Discover Financial Services,Financials,S&P 500,SAP_500,0.8527794253642935,0.9784641853893035,0.9760376382966995
+Discovery Inc. (Class A),Communication Services,S&P 500,SAP_500,0.895781588190899,0.9117490756072893,0.9721844425851095
+Discovery Inc. (Class C),Communication Services,S&P 500,SAP_500,0.7697383671756162,0.903763584587508,0.9729672339925606
+Dish Network,Communication Services,S&P 500,SAP_500,0.7479474300792229,0.9467587673107051,0.9388610139551126
+Dollar General,Consumer Discretionary,S&P 500,SAP_500,0.708247242554938,0.9902264225363385,0.9917883085273482
+Dollar Tree,Consumer Discretionary,S&P 500,SAP_500,0.904067747700745,0.9759291986861035,0.9894758253191406
+Dominion Energy,Utilities,S&P 500,SAP_500,0.8914346572179123,0.9556255433110644,0.9813761482650809
+Domino's Pizza,Consumer Discretionary,S&P 500,SAP_500,0.7347330671856452,0.971104265669575,0.9864158946663861
+Dover Corporation,Industrials,S&P 500,SAP_500,0.9496262374632378,0.9858231297977407,0.9968283647890915
+Dow Inc.,Materials,S&P 500,SAP_500,,0.9718598618970574,0.9764430779256272
+DTE Energy Co.,Utilities,S&P 500,SAP_500,0.9078859117053949,0.971943785807719,0.989678331471617
+Duke Energy,Utilities,S&P 500,SAP_500,0.9076360548340283,0.9815193527905943,0.9854338586606864
+Duke Realty Corp,Real Estate,S&P 500,SAP_500,0.8723875879629157,0.9743453096578827,0.9881004329779023
+DuPont de Nemours Inc,Materials,S&P 500,SAP_500,0.7267978615720049,0.9403383900767067,0.9786989078647121
+DXC Technology,Information Technology,S&P 500,SAP_500,0.7158189160301938,0.9394086148867267,0.9753094144582442
+E*Trade,Financials,S&P 500,SAP_500,,,
+Eastman Chemical,Materials,S&P 500,SAP_500,0.8398367014806278,0.9801049866482047,0.9865125548842897
+Eaton Corporation,Industrials,S&P 500,SAP_500,0.9409689684899315,0.9771271008115688,0.9869161343630617
+eBay Inc.,Consumer Discretionary,S&P 500,SAP_500,0.9091285452917439,0.9563347535398743,0.9828329705850187
+Ecolab Inc.,Materials,S&P 500,SAP_500,0.8851312934851949,0.9638676879835165,0.9771276492110744
+Edison Int'l,Utilities,S&P 500,SAP_500,0.8597277241333829,0.968050391039866,0.9672567486528236
+Edwards Lifesciences,Health Care,S&P 500,SAP_500,0.7541576974567445,0.9731589044325235,0.9832713111375395
+Electronic Arts,Communication Services,S&P 500,SAP_500,0.9193063613150104,0.9796499684134194,0.9816092843814243
+Emerson Electric Company,Industrials,S&P 500,SAP_500,0.8759378504792431,0.984605145262957,0.9900889192722039
+Entergy Corp.,Utilities,S&P 500,SAP_500,0.9347782122640788,0.9469449442869489,0.9807198834398331
+EOG Resources,Energy,S&P 500,SAP_500,0.8380836804250993,0.9246222084318431,0.9384772617782953
+Equifax Inc.,Industrials,S&P 500,SAP_500,0.8937261599515187,0.9449807833364497,0.990721212057627
+Equinix,Real Estate,S&P 500,SAP_500,0.8699330915914215,0.9752441857017139,0.9885783589423829
+Equity Residential,Real Estate,S&P 500,SAP_500,0.9229187699706157,0.9757025395525276,0.9890015394663603
+Essex Property Trust Inc.,Real Estate,S&P 500,SAP_500,0.9461884899923868,0.9780107115408592,0.9909815550878295
+Estée Lauder Companies,Consumer Staples,S&P 500,SAP_500,0.8889007883458737,0.9744070859171863,0.9881930944644114
+Everest Re Group Ltd.,Financials,S&P 500,SAP_500,0.931575580023275,0.9797068453316283,0.9782127282754666
+Evergy,Utilities,S&P 500,SAP_500,0.8802815689284991,0.968436318988269,0.9865534642292705
+Eversource Energy,Utilities,S&P 500,SAP_500,0.8959980889787615,0.9748762179526507,0.9794840830734834
+Exelon Corp.,Utilities,S&P 500,SAP_500,0.9283548715818735,0.9794447483375481,0.980721704810594
+Expedia Group,Consumer Discretionary,S&P 500,SAP_500,0.7589533465230219,0.9668724100850024,0.979539113450373
+Expeditors,Industrials,S&P 500,SAP_500,0.9553051198616778,0.9853292493731763,0.9906525354665168
+Extra Space Storage,Real Estate,S&P 500,SAP_500,0.9390350018452684,0.9790843841221258,0.9904375075701279
+Exxon Mobil Corp.,Energy,S&P 500,SAP_500,0.7882589918957504,0.9313007774587299,0.966305040513152
+F5 Networks,Information Technology,S&P 500,SAP_500,0.8774910061217631,0.9591886062397157,0.9825666799849366
+Facebook Inc.,Communication Services,S&P 500,SAP_500,0.9486444323981027,0.9546082454510756,0.9650247770583196
+Fastenal Co,Industrials,S&P 500,SAP_500,0.8444883141098385,0.9795078462921221,0.9705864221619691
+Federal Realty Investment Trust,Real Estate,S&P 500,SAP_500,0.8354164264815296,0.9617964778202559,0.9900294297202104
+FedEx Corporation,Industrials,S&P 500,SAP_500,0.8355325819015804,0.9530839899873103,0.9975135196436273
+Fidelity National Information Services,Information Technology,S&P 500,SAP_500,0.9062618500872901,0.9321109725809157,0.9782285235810156
+Fifth Third Bancorp,Financials,S&P 500,SAP_500,0.817406126655395,0.952427963212803,0.9669292034717599
+First Republic Bank,Financials,S&P 500,SAP_500,0.9286883251282355,0.946126223622582,0.9918431401927271
+FirstEnergy Corp,Utilities,S&P 500,SAP_500,0.797209294346085,0.9489254069081282,0.9584313321991927
+Fiserv Inc,Information Technology,S&P 500,SAP_500,0.8941545032923234,0.9569435522918595,0.9857673739811816
+FleetCor Technologies Inc,Information Technology,S&P 500,SAP_500,0.902253756730889,0.9654176993127103,0.9848789146619793
+FLIR Systems,Information Technology,S&P 500,SAP_500,0.8781360232883095,0.8777738874712864,0.9847003709570206
+Flowserve Corporation,Industrials,S&P 500,SAP_500,0.85187407946886,0.9805028020325764,0.9804790381030597
+FMC Corporation,Materials,S&P 500,SAP_500,0.866954268063032,0.9677162161855417,0.9677492481244065
+Ford Motor Company,Consumer Discretionary,S&P 500,SAP_500,0.7873814131677318,0.9511428884993224,0.9473544182856425
+Fortinet,Information Technology,S&P 500,SAP_500,0.4993994894328285,0.9591447207566521,0.990034659122585
+Fortive Corp,Industrials,S&P 500,SAP_500,,0.9796960529373949,0.975261765301345
+Fortune Brands Home & Security,Industrials,S&P 500,SAP_500,0.8177394045728045,0.9883415462058228,0.980625757453114
+Fox Corporation (Class A),Communication Services,S&P 500,SAP_500,,0.9528672146454493,0.9592622023402932
+Fox Corporation (Class B),Communication Services,S&P 500,SAP_500,,0.9668079379245074,0.9721032302331494
+Franklin Resources,Financials,S&P 500,SAP_500,0.722651515886447,0.9701213665003916,0.9869336486045559
+Freeport-McMoRan Inc.,Materials,S&P 500,SAP_500,0.7723595241914473,0.9627918562681429,0.9827231150768236
+Gap Inc.,Consumer Discretionary,S&P 500,SAP_500,0.7115485818078232,0.9582001390897452,0.9881090462653676
+Garmin Ltd.,Consumer Discretionary,S&P 500,SAP_500,0.8870524866003624,0.9855185879864491,0.9847277401033138
+Gartner Inc,Information Technology,S&P 500,SAP_500,0.9234479522297605,0.9789098004152721,0.9881096557686911
+General Dynamics,Industrials,S&P 500,SAP_500,0.8893982241297435,0.9789969514171228,0.9869557881923298
+General Electric,Industrials,S&P 500,SAP_500,0.7135413415490051,0.9604916063336763,0.9511340774827638
+General Mills,Consumer Staples,S&P 500,SAP_500,0.9026829245796268,0.9433622314716009,0.9739410483680729
+General Motors,Consumer Discretionary,S&P 500,SAP_500,0.8310327587690403,0.930775243103853,0.9739116066185786
+Genuine Parts,Consumer Discretionary,S&P 500,SAP_500,0.8703606074224807,0.9884138196685465,0.9950542430709676
+Gilead Sciences,Health Care,S&P 500,SAP_500,0.8530352566723576,0.9385015856988392,0.9552927741128228
+Global Payments Inc.,Information Technology,S&P 500,SAP_500,0.748063653997912,0.9601373028984196,0.983549970842344
+Globe Life Inc.,Financials,S&P 500,SAP_500,0.8774816781946961,0.9813764005855095,0.9782229194806344
+Goldman Sachs Group,Financials,S&P 500,SAP_500,0.8904614544681269,0.9398739996148104,0.9766363696372544
+Grainger (W.W.) Inc.,Industrials,S&P 500,SAP_500,0.910217396279821,0.9645881158253616,0.9877135537285414
+H&R Block,Consumer Discretionary,S&P 500,SAP_500,0.8230673727392117,0.9576848764429542,0.9567294585110556
+Halliburton Co.,Energy,S&P 500,SAP_500,0.728912877817838,0.8927111638045608,0.8858787434836517
+Hanesbrands Inc,Consumer Discretionary,S&P 500,SAP_500,0.8228155988772762,0.9492201431506064,0.9709499029783224
+Hartford Financial Svc.Gp.,Financials,S&P 500,SAP_500,0.8777618287044207,0.9720484818693855,0.9759382009921436
+Hasbro Inc.,Consumer Discretionary,S&P 500,SAP_500,0.846437999396285,0.978032359814833,0.9931931514328952
+HCA Healthcare,Health Care,S&P 500,SAP_500,0.9024017915790746,0.9851623657943754,0.9930017794055671
+Healthpeak Properties,Real Estate,S&P 500,SAP_500,0.8719611646879828,0.9715806756241654,0.9878991906917204
+Henry Schein,Health Care,S&P 500,SAP_500,0.8512642646454316,0.9782934434301203,0.9829662960792058
+Hess Corporation,Energy,S&P 500,SAP_500,0.8528791743920107,0.9661373142944164,0.9781793327089288
+Hewlett Packard Enterprise,Information Technology,S&P 500,SAP_500,0.8426424146932207,0.9709571290572651,0.9814104575349343
+Hilton Worldwide Holdings Inc,Consumer Discretionary,S&P 500,SAP_500,0.9039349316462163,0.9758658668280648,0.9824552692925733
+HollyFrontier Corp,Energy,S&P 500,SAP_500,0.8360644472448219,0.9240358202807732,0.9662289119603394
+Hologic,Health Care,S&P 500,SAP_500,0.906293513903594,0.9769336537675991,0.9770399782108008
+Home Depot,Consumer Discretionary,S&P 500,SAP_500,0.9711067885330589,0.9787085925510236,0.9786655269901073
+Honeywell Int'l Inc.,Industrials,S&P 500,SAP_500,0.9277768651879814,0.979232475321068,0.9869718877205276
+Hormel Foods Corp.,Consumer Staples,S&P 500,SAP_500,0.8929270356024595,0.9630433383337836,0.9798006281434237
+Host Hotels & Resorts,Real Estate,S&P 500,SAP_500,0.8652096009748358,0.9499109788480253,0.9679160435924014
+Howmet Aerospace,Industrials,S&P 500,SAP_500,,0.9721858508285627,0.9840244626517143
+HP Inc.,Information Technology,S&P 500,SAP_500,0.875103010924624,0.9817249787440079,0.9913391480181292
+Humana Inc.,Health Care,S&P 500,SAP_500,0.9188802532841325,0.9792368796102437,0.9797018638341487
+Huntington Bancshares,Financials,S&P 500,SAP_500,0.6875227253472929,0.9767016987881124,0.9705991713841721
+Huntington Ingalls Industries,Industrials,S&P 500,SAP_500,0.9078547061002973,0.9750618182352514,0.9835750100388466
+IDEX Corporation,Industrials,S&P 500,SAP_500,0.9453789060177028,0.9801329722145742,0.9898273387256397
+IDEXX Laboratories,Health Care,S&P 500,SAP_500,0.7973829800201018,0.9817931185854326,0.9905799429233457
+IHS Markit Ltd.,Industrials,S&P 500,SAP_500,0.8254708863553787,0.9807741764616364,0.9847171480650198
+Illinois Tool Works,Industrials,S&P 500,SAP_500,0.9630594574189765,0.9894035592545922,0.9892167300406662
+Illumina Inc,Health Care,S&P 500,SAP_500,0.9045165734181208,0.9581747917271874,0.9572784535962761
+Incyte,Health Care,S&P 500,SAP_500,0.8243880784354329,0.9480115637876912,0.9439280248754844
+Ingersoll Rand,Industrials,S&P 500,SAP_500,,0.9894221878145224,0.988410606789455
+Intel Corp.,Information Technology,S&P 500,SAP_500,0.90554636012288,0.9070078718162364,0.9529584614319139
+Intercontinental Exchange,Financials,S&P 500,SAP_500,0.9483321414860921,0.9888819576035989,0.9963491546912521
+International Business Machines,Information Technology,S&P 500,SAP_500,0.8562341265099569,0.9670304991054748,0.9431126183637885
+International Flavors & Fragrances,Materials,S&P 500,SAP_500,0.8923668313301457,0.9506895329222839,0.9649777834695705
+International Paper,Materials,S&P 500,SAP_500,0.8671180674918814,0.9830073456324544,0.9937493417813877
+Interpublic Group,Communication Services,S&P 500,SAP_500,0.8550789341077475,0.9678409183661972,0.9759449098421216
+Intuit Inc.,Information Technology,S&P 500,SAP_500,0.8076744518465274,0.9814602586653091,0.9790669327193844
+Intuitive Surgical Inc.,Health Care,S&P 500,SAP_500,0.8028070729069822,0.9726297099885748,0.9813396639771899
+Invesco Ltd.,Financials,S&P 500,SAP_500,0.7279723526158515,0.9184680215658693,0.9499527043855198
+IPG Photonics Corp.,Information Technology,S&P 500,SAP_500,0.8572691740299695,0.957691899859265,0.9658937479205195
+IQVIA Holdings Inc.,Health Care,S&P 500,SAP_500,0.946975298917214,0.9868237187487545,0.9856787334780692
+Iron Mountain Incorporated,Real Estate,S&P 500,SAP_500,0.7859461956242944,0.9639430312362001,0.9609657239618241
+J. B. Hunt Transport Services,Industrials,S&P 500,SAP_500,0.8764336591874831,0.9794393601351089,0.9909456781913388
+Jack Henry & Associates,Information Technology,S&P 500,SAP_500,0.8533048822908327,0.9547961149041998,0.9752125091941339
+Jacobs Engineering Group,Industrials,S&P 500,SAP_500,0.8796051575679609,0.9817417915256643,0.9886263998156751
+JM Smucker,Consumer Staples,S&P 500,SAP_500,0.8670757110965223,0.9809199700057154,0.9772055670450769
+Johnson & Johnson,Health Care,S&P 500,SAP_500,0.934015047234947,0.9710049565479028,0.9790878351769617
+Johnson Controls International,Industrials,S&P 500,SAP_500,0.8732279049039345,0.9606837406410207,0.9865877404569318
+JPMorgan Chase & Co.,Financials,S&P 500,SAP_500,0.9403029686482881,0.9626560275368224,0.985142078283704
+Juniper Networks,Information Technology,S&P 500,SAP_500,0.6821267873749786,0.9440936724135024,0.9837291700082597
+Kansas City Southern,Industrials,S&P 500,SAP_500,0.9121753890271653,0.973925572774582,0.9921217966404715
+Kellogg Co.,Consumer Staples,S&P 500,SAP_500,0.8653922142304091,0.9413222864701946,0.9744634972966757
+KeyCorp,Financials,S&P 500,SAP_500,0.812946079276808,0.9548755033241508,0.9734043497389947
+Keysight Technologies,Information Technology,S&P 500,SAP_500,0.5421531526397299,0.9525300929860785,0.9895309525875698
+Kimberly-Clark,Consumer Staples,S&P 500,SAP_500,0.8957698358292574,0.9710703740297969,0.9808465269636526
+Kimco Realty,Real Estate,S&P 500,SAP_500,0.8590775790771391,0.9530612940903279,0.9863239716710588
+Kinder Morgan,Energy,S&P 500,SAP_500,0.7136573098651473,0.9430881015048522,0.9309323716989728
+KLA Corporation,Information Technology,S&P 500,SAP_500,0.8010135740892947,0.9538876176237125,0.9817679310875567
+Kohl's Corp.,Consumer Discretionary,S&P 500,SAP_500,0.7823891840975721,0.9630727381514844,0.9949179810988809
+Kraft Heinz Co,Consumer Staples,S&P 500,SAP_500,0.7410956390147457,0.9395143171528444,0.9578314120857073
+Kroger Co.,Consumer Staples,S&P 500,SAP_500,0.8552883778672712,0.963898147842348,0.9662874872374057
+L Brands Inc.,Consumer Discretionary,S&P 500,SAP_500,0.7737085845377566,0.9701706719856685,0.9869218383664432
+L3Harris Technologies,Industrials,S&P 500,SAP_500,0.7802895747348502,0.9740464372888546,0.9751456456962445
+Laboratory Corp. of America Holding,Health Care,S&P 500,SAP_500,0.9261517104664324,0.9756450315584573,0.9871720491629549
+Lam Research,Information Technology,S&P 500,SAP_500,0.8167599517897728,0.9585859187738104,0.9845058768451793
+Lamb Weston Holdings Inc,Consumer Staples,S&P 500,SAP_500,,0.9834296599363925,0.9914810333924067
+Las Vegas Sands,Consumer Discretionary,S&P 500,SAP_500,0.8915334094024606,0.9652105397779435,0.9847953129970034
+Leggett & Platt,Consumer Discretionary,S&P 500,SAP_500,0.7958667155535774,0.9795597010098559,0.9948395514328622
+Leidos Holdings,Information Technology,S&P 500,SAP_500,0.8409189733469663,0.9815805198259312,0.9884207300761421
+Lennar Corp.,Consumer Discretionary,S&P 500,SAP_500,0.8446347003639934,0.9722961507602136,0.9663193812598782
+Lilly (Eli) & Co.,Health Care,S&P 500,SAP_500,0.7867902760382505,0.9296635608975725,0.9778327439256063
+Lincoln National,Financials,S&P 500,SAP_500,0.8114446477620928,0.9720321304855746,0.962199454967816
+Linde plc,Materials,S&P 500,SAP_500,0.9569716300834804,0.9729603360903943,0.9764037068381677
+Live Nation Entertainment,Communication Services,S&P 500,SAP_500,0.8942453828162779,0.9786253305452007,0.9698501544797499
+LKQ Corporation,Consumer Discretionary,S&P 500,SAP_500,0.7049724874527469,0.9711381179151869,0.9887945122599489
+Lockheed Martin Corp.,Industrials,S&P 500,SAP_500,0.9369904643500672,0.9588468545317684,0.9871738274991108
+Loews Corp.,Financials,S&P 500,SAP_500,0.8511173824042526,0.9737382744089574,0.9884617596377265
+Lowe's Cos.,Consumer Discretionary,S&P 500,SAP_500,0.9169728109850943,0.9803969250743564,0.9859171857720971
+LyondellBasell,Materials,S&P 500,SAP_500,0.8460273213157098,0.9752067803323482,0.9765685561421034
+M&T Bank Corp.,Financials,S&P 500,SAP_500,0.8565461784179732,0.9332400902261486,0.9724447054999804
+Marathon Oil Corp.,Energy,S&P 500,SAP_500,0.6243971787681115,0.9397409483813397,0.975395209526263
+Marathon Petroleum,Energy,S&P 500,SAP_500,0.8277711124090329,0.9634871715414478,0.9635752946164199
+MarketAxess,Financials,S&P 500,SAP_500,0.7384385942071381,0.9375329617823831,0.9815636248065459
+Marriott Int'l.,Consumer Discretionary,S&P 500,SAP_500,0.8723944823919714,0.9737118552683307,0.9776228059558825
+Marsh & McLennan,Financials,S&P 500,SAP_500,0.9421193288517219,0.9662525820020554,0.9836651516633131
+Martin Marietta Materials,Materials,S&P 500,SAP_500,0.8936300729339227,0.956144472551728,0.9891361181965729
+Masco Corp.,Industrials,S&P 500,SAP_500,0.8794613864683334,0.9731967973528034,0.9667732829418129
+Mastercard Inc.,Information Technology,S&P 500,SAP_500,0.6596654744142549,0.9615105174745796,0.9863519730361614
+Maxim Integrated Products Inc,Information Technology,S&P 500,SAP_500,0.9383952341858749,0.9745848990768462,0.9881496251242805
+McCormick & Co.,Consumer Staples,S&P 500,SAP_500,0.8257614066399077,0.9739026949057908,0.9768379669682496
+McDonald's Corp.,Consumer Discretionary,S&P 500,SAP_500,0.9537377068022129,0.9811697765217049,0.9929025138763454
+McKesson Corp.,Health Care,S&P 500,SAP_500,0.860430616075622,0.9892585112967798,0.9917243513361397
+Medtronic plc,Health Care,S&P 500,SAP_500,0.9103922167899273,0.9881972629047416,0.9884811463135438
+Merck & Co.,Health Care,S&P 500,SAP_500,0.9112837633641966,0.9766208830870279,0.9695959899839905
+MetLife Inc.,Financials,S&P 500,SAP_500,0.8762011083584444,0.968964897136851,0.9819187636411278
+Mettler Toledo,Health Care,S&P 500,SAP_500,0.8828070365919981,0.9736077276783682,0.9841123933706639
+MGM Resorts International,Consumer Discretionary,S&P 500,SAP_500,0.8238140498665576,0.9535191023581369,0.9789371498526006
+Microchip Technology,Information Technology,S&P 500,SAP_500,0.9364439231623982,0.976858649689238,0.9765959105331921
+Micron Technology,Information Technology,S&P 500,SAP_500,0.4547718596824101,0.9517930648145312,0.9794289909178294
+Microsoft Corp.,Information Technology,S&P 500,SAP_500,0.6967942707041264,0.9774294849119072,0.9726453673534652
+Mid-America Apartments,Real Estate,S&P 500,SAP_500,0.9331456234577187,0.9768299097970621,0.9912240460965914
+Mohawk Industries,Consumer Discretionary,S&P 500,SAP_500,0.792860628068567,0.9775762255645276,0.9819140421312379
+Molson Coors Beverage Company,Consumer Staples,S&P 500,SAP_500,0.7765169974169323,0.9335754519175962,0.9721077055284469
+Mondelez International,Consumer Staples,S&P 500,SAP_500,0.8343705858845356,0.9873727159507806,0.9853014083324879
+Monster Beverage,Consumer Staples,S&P 500,SAP_500,0.9031774889531429,0.9781312924219875,0.9706560065145611
+Moody's Corp,Financials,S&P 500,SAP_500,0.8587254403123655,0.9547361899888206,0.9750966317254158
+Morgan Stanley,Financials,S&P 500,SAP_500,0.8772616636343749,0.9602571513968828,0.9829541568735072
+Motorola Solutions Inc.,Information Technology,S&P 500,SAP_500,0.7079540876966941,0.9885473133630397,0.9870810384525535
+MSCI Inc,Financials,S&P 500,SAP_500,0.6201657526318496,0.9619544000514728,0.9774388265924138
+Mylan N.V.,Health Care,S&P 500,SAP_500,,,
+Nasdaq Inc.,Financials,S&P 500,SAP_500,0.9562741594449035,0.9614337503865841,0.9828153491074754
+National Oilwell Varco Inc.,Energy,S&P 500,SAP_500,0.7914790366207848,0.9639629295694373,0.9708608998291894
+NetApp,Information Technology,S&P 500,SAP_500,0.8369712207422321,0.9849196134330549,0.9902535043050842
+Netflix Inc.,Communication Services,S&P 500,SAP_500,0.6403394481699894,0.9726255822097228,0.972078631630665
+Newell Brands,Consumer Discretionary,S&P 500,SAP_500,0.6617124329298327,0.9329962947898347,0.9533829900404753
+Newmont Corporation,Materials,S&P 500,SAP_500,0.8234768640164493,0.9727196894973693,0.9822471707501502
+News Corp. Class A,Communication Services,S&P 500,SAP_500,0.7739079905398554,0.9745977767334894,0.9740836116658433
+News Corp. Class B,Communication Services,S&P 500,SAP_500,0.9205165059507633,0.9701892734067552,0.9742714051999187
+NextEra Energy,Utilities,S&P 500,SAP_500,0.8994740081192536,0.9641194104458722,0.986773059579382
+Nielsen Holdings,Industrials,S&P 500,SAP_500,0.6250609842516623,0.9632483281377778,0.9648426823876327
+Nike Inc.,Consumer Discretionary,S&P 500,SAP_500,0.9443990871134129,0.9823644659350624,0.9874577193697744
+NiSource Inc.,Utilities,S&P 500,SAP_500,0.9138110333406992,0.9586644311088179,0.9585971626967498
+Noble Energy,Energy,S&P 500,SAP_500,,,
+Norfolk Southern Corp.,Industrials,S&P 500,SAP_500,0.9031215229095582,0.9765987429881698,0.9798715215148908
+Northern Trust Corp.,Financials,S&P 500,SAP_500,0.8851845107701432,0.9770026366486597,0.9825471816588596
+Northrop Grumman,Industrials,S&P 500,SAP_500,0.9240041318245499,0.9794832217589134,0.9898043349726103
+NortonLifeLock,Information Technology,S&P 500,SAP_500,0.8931509906485393,0.9535922442117937,0.962160221168889
+Norwegian Cruise Line Holdings,Consumer Discretionary,S&P 500,SAP_500,0.729969733286727,0.968643489029715,0.9786914977054489
+NRG Energy,Utilities,S&P 500,SAP_500,0.4281765461798577,0.9263618542460225,0.9550588767252826
+Nucor Corp.,Materials,S&P 500,SAP_500,0.8537475629947235,0.9765912877348036,0.9867225717506559
+Nvidia Corporation,Information Technology,S&P 500,SAP_500,0.212567414378795,0.9799332151244798,0.9836923803452003
+NVR Inc.,Consumer Discretionary,S&P 500,SAP_500,0.8962807050545577,0.978594649710731,0.9743646872401746
+O'Reilly Automotive,Consumer Discretionary,S&P 500,SAP_500,0.8799694220955314,0.9761734182981033,0.9762295307816923
+Occidental Petroleum,Energy,S&P 500,SAP_500,0.7829396035672896,0.911472927681753,0.9726010155745999
+Old Dominion Freight Line,Industrials,S&P 500,SAP_500,0.7646829075392354,0.977750171013302,0.9826759099225588
+Omnicom Group,Communication Services,S&P 500,SAP_500,0.887307818873329,0.9819720637388529,0.9848370265696065
+ONEOK,Energy,S&P 500,SAP_500,0.8799705282062291,0.9739924507219676,0.9854667929968943
+Oracle Corp.,Information Technology,S&P 500,SAP_500,0.9643459131076395,0.9653168311550256,0.983458277569042
+Otis Worldwide,Industrials,S&P 500,SAP_500,,0.9800504247662858,0.9801686024745718
+PACCAR Inc.,Industrials,S&P 500,SAP_500,0.9142351081478601,0.9754944925600507,0.9676137805542209
+Packaging Corporation of America,Materials,S&P 500,SAP_500,0.8824257108632863,0.9804177595176046,0.9909111595540058
+Parker-Hannifin,Industrials,S&P 500,SAP_500,0.8967642878512566,0.980865129628407,0.9768932184080139
+Paychex Inc.,Information Technology,S&P 500,SAP_500,0.8960374238753894,0.9375114841971846,0.9776082771722213
+Paycom,Information Technology,S&P 500,SAP_500,0.3762038966193426,0.9521815070760613,0.994680023553
+PayPal,Information Technology,S&P 500,SAP_500,0.6052576619244858,0.9800610210166263,0.983579899282008
+Pentair plc,Industrials,S&P 500,SAP_500,0.9183767712600945,0.9691612467044306,0.991958375405944
+People's United Financial,Financials,S&P 500,SAP_500,0.8728653127796084,0.9785697551371808,0.9782211420906404
+PepsiCo Inc.,Consumer Staples,S&P 500,SAP_500,0.9437524269649884,0.9756324302807728,0.9793238975134948
+PerkinElmer,Health Care,S&P 500,SAP_500,0.9199779558338841,0.9700881342313552,0.9910952899409359
+Perrigo,Health Care,S&P 500,SAP_500,0.7453993345350829,0.9483179733128037,0.9799332877458807
+Pfizer Inc.,Health Care,S&P 500,SAP_500,0.878316547462047,0.9673560719011424,0.9709374100734425
+Philip Morris International,Consumer Staples,S&P 500,SAP_500,0.8484429954526816,0.9660511644956367,0.9872279799972475
+Phillips 66,Energy,S&P 500,SAP_500,0.8873096965148867,0.9595325057902415,0.9571673674845416
+Pinnacle West Capital,Utilities,S&P 500,SAP_500,0.902630652189295,0.9745902880030989,0.9798291822512352
+Pioneer Natural Resources,Energy,S&P 500,SAP_500,0.8428055727392019,0.9584526737416523,0.9815979243409112
+PNC Financial Services,Financials,S&P 500,SAP_500,0.9354647406212319,0.9727991957182056,0.9785353377802556
+PPG Industries,Materials,S&P 500,SAP_500,0.9335052954570214,0.9752598517619737,0.9711025209404406
+PPL Corp.,Utilities,S&P 500,SAP_500,0.8782282149569026,0.9776622908012104,0.985152549574073
+Principal Financial Group,Financials,S&P 500,SAP_500,0.8669555188860578,0.9692789331158288,0.9581211415550168
+Procter & Gamble,Consumer Staples,S&P 500,SAP_500,0.8812778824256894,0.9670110772695222,0.9773197973187566
+Progressive Corp.,Financials,S&P 500,SAP_500,0.8721460261787086,0.986992770231798,0.9826289028486787
+Prologis,Real Estate,S&P 500,SAP_500,0.8358584547559251,0.9692995546654815,0.9765991488581546
+Prudential Financial,Financials,S&P 500,SAP_500,0.8879423017278052,0.9736679227912798,0.9817009204874714
+Public Service Enterprise Group (PSEG),Utilities,S&P 500,SAP_500,0.9008800700443903,0.9774507076978958,0.9756873982339918
+Public Storage,Real Estate,S&P 500,SAP_500,0.8876315589016733,0.9774670527672437,0.9786689274557593
+PulteGroup,Consumer Discretionary,S&P 500,SAP_500,0.7627395576015328,0.9454108105794747,0.9446612648712049
+PVH Corp.,Consumer Discretionary,S&P 500,SAP_500,0.9134338991515303,0.970851736217431,0.9761766229972723
+Qorvo,Information Technology,S&P 500,SAP_500,0.769135523565665,0.9632690600652709,0.9834473292924536
+QUALCOMM Inc.,Information Technology,S&P 500,SAP_500,0.8743495353326096,0.9780913237655322,0.9891079246120861
+Quanta Services Inc.,Industrials,S&P 500,SAP_500,0.8029703878635484,0.9751994370720577,0.9878744129163255
+Quest Diagnostics,Health Care,S&P 500,SAP_500,0.9538570687797507,0.9799381583278973,0.988465253551741
+Ralph Lauren Corporation,Consumer Discretionary,S&P 500,SAP_500,0.8903134180224951,0.9719713298285976,0.9806478445066926
+Raymond James Financial Inc.,Financials,S&P 500,SAP_500,0.8779496060742866,0.969895479831134,0.9831005863106886
+Raytheon Technologies,Industrials,S&P 500,SAP_500,0.9576107466343124,0.9582486573343485,0.9661820337889013
+Realty Income Corporation,Real Estate,S&P 500,SAP_500,0.883097123063118,0.9638961584065506,0.9677724414295974
+Regency Centers Corporation,Real Estate,S&P 500,SAP_500,0.9008859584095124,0.9655097652858782,0.9602531076063853
+Regeneron Pharmaceuticals,Health Care,S&P 500,SAP_500,0.8471194798081452,0.9502187753173259,0.983559481198547
+Regions Financial Corp.,Financials,S&P 500,SAP_500,0.7973742863310138,0.9417614233776243,0.9647555428537908
+Republic Services Inc,Industrials,S&P 500,SAP_500,0.8960217637804757,0.9811522456845811,0.9849217792923229
+ResMed,Health Care,S&P 500,SAP_500,0.7109048796575337,0.9912088383585994,0.9916398983419112
+Robert Half International,Industrials,S&P 500,SAP_500,0.8915038027433876,0.971717683905275,0.9724198116221142
+Rockwell Automation Inc.,Industrials,S&P 500,SAP_500,0.9180194602488693,0.9819654103966059,0.9715924044257434
+Rollins Inc.,Industrials,S&P 500,SAP_500,0.7052986641626546,0.9772063966071038,0.9809016368390001
+Roper Technologies,Industrials,S&P 500,SAP_500,0.8968357302138915,0.9717411323540115,0.988484865118861
+Ross Stores,Consumer Discretionary,S&P 500,SAP_500,0.8253719259766112,0.9691492592146375,0.9802950719936118
+Royal Caribbean Group,Consumer Discretionary,S&P 500,SAP_500,0.894899453534835,0.9217670947966027,0.9565335802708913
+S&P Global Inc.,Financials,S&P 500,SAP_500,0.7711150405675424,0.9613747079880476,0.9783794598025307
+Salesforce.com,Information Technology,S&P 500,SAP_500,0.8421393212019876,0.9854741147601032,0.9811795944806251
+SBA Communications,Real Estate,S&P 500,SAP_500,0.7857772871795365,0.9726862097066575,0.9903989483001671
+Schlumberger Ltd.,Energy,S&P 500,SAP_500,0.7754440383330825,0.9470735927708337,0.9607134798353524
+Seagate Technology,Information Technology,S&P 500,SAP_500,0.6261059044751485,0.972280438603159,0.9912955367782674
+Sealed Air,Materials,S&P 500,SAP_500,0.9082172496826877,0.9787341554017608,0.984861200226181
+Sempra Energy,Utilities,S&P 500,SAP_500,0.9621262241803169,0.9621288180855114,0.9744659975702769
+ServiceNow,Information Technology,S&P 500,SAP_500,0.5870112048589269,0.9709942225726657,0.9836287737681634
+Sherwin-Williams,Materials,S&P 500,SAP_500,0.9080628026604229,0.9885501789611447,0.992525695360129
+Simon Property Group Inc,Real Estate,S&P 500,SAP_500,0.8701578625287272,0.9325530334811145,0.9633769882814117
+Skyworks Solutions,Information Technology,S&P 500,SAP_500,0.8631596037143708,0.968154044626264,0.9635869737959792
+SL Green Realty,Real Estate,S&P 500,SAP_500,0.8644774020690101,0.9819089737918236,0.9765664197227706
+Snap-on,Industrials,S&P 500,SAP_500,0.9219054613599876,0.9827063883774422,0.9804360021703161
+Southern Company,Utilities,S&P 500,SAP_500,0.8688388895663852,0.9782473541794235,0.9863672133851319
+Southwest Airlines,Industrials,S&P 500,SAP_500,0.9272887707887196,0.9748414035411026,0.9788553966035305
+Stanley Black & Decker,Industrials,S&P 500,SAP_500,0.9360433746789711,0.971800180907543,0.9877087242956312
+Starbucks Corp.,Consumer Discretionary,S&P 500,SAP_500,0.8175159624508513,0.9835355895442978,0.9887716547789137
+State Street Corp.,Financials,S&P 500,SAP_500,0.8934547865501054,0.9808827783527057,0.9861075780675347
+STERIS plc,Health Care,S&P 500,SAP_500,0.7910881045956478,0.9756019950714097,0.9931736526770462
+Stryker Corp.,Health Care,S&P 500,SAP_500,0.8836002141249445,0.9854038561957136,0.9902376116080474
+SVB Financial,Financials,S&P 500,SAP_500,0.8140895810222072,0.9354265910024495,0.9851707850970081
+Synchrony Financial,Financials,S&P 500,SAP_500,0.9201803282989037,0.9623224721555864,0.9676886805839973
+Synopsys Inc.,Information Technology,S&P 500,SAP_500,0.7405388109520509,0.980437131089553,0.9784898492283695
+Sysco Corp.,Consumer Staples,S&P 500,SAP_500,0.8926830991382821,0.9787887860880603,0.9799297838758221
+T-Mobile US,Communication Services,S&P 500,SAP_500,0.8780609639930715,0.9796440149606785,0.987012464830337
+T. Rowe Price Group,Financials,S&P 500,SAP_500,0.9415078363362256,0.9853679573518976,0.9941511566026349
+Take-Two Interactive,Communication Services,S&P 500,SAP_500,0.4421043881624478,0.9829781267588644,0.9871819991008297
+Tapestry Inc.,Consumer Discretionary,S&P 500,SAP_500,0.8409714281537386,0.9699496029181411,0.9879512062209198
+Target Corp.,Consumer Discretionary,S&P 500,SAP_500,0.6668421001329029,0.9665872011141079,0.9908898213717142
+TE Connectivity Ltd.,Information Technology,S&P 500,SAP_500,0.9437274810701635,0.973325211402264,0.9911489704035433
+TechnipFMC,Energy,S&P 500,SAP_500,0.802673535362191,0.9368226492341449,0.9859972621051217
+Teledyne Technologies,Industrials,S&P 500,SAP_500,0.4397096938160535,0.9794763988601033,0.9829269032916808
+Teleflex,Health Care,S&P 500,SAP_500,0.8789784109358679,0.9656386051972122,0.9840001335999641
+Texas Instruments,Information Technology,S&P 500,SAP_500,0.8521206917689002,0.9818785933974505,0.9888787901725756
+Textron Inc.,Industrials,S&P 500,SAP_500,0.8782711593882346,0.9786310523585728,0.9882332722724405
+The Bank of New York Mellon,Financials,S&P 500,SAP_500,0.9237970974221446,0.9618674024999639,0.9706634667624516
+The Clorox Company,Consumer Staples,S&P 500,SAP_500,0.9257263825651537,0.9654038873894878,0.9657331227226776
+The Cooper Companies,Health Care,S&P 500,SAP_500,0.94636057317557,0.959516424992372,0.9867679843115371
+The Hershey Company,Consumer Staples,S&P 500,SAP_500,0.9236672624057197,0.9910614196809482,0.9891148008296674
+The Mosaic Company,Materials,S&P 500,SAP_500,0.756270513096953,0.8899844513223542,0.9883303108390556
+The Travelers Companies Inc.,Financials,S&P 500,SAP_500,0.9507891514497743,0.9828022687014534,0.9905760306321232
+The Walt Disney Company,Communication Services,S&P 500,SAP_500,0.9048414892629677,0.980477810218569,0.9921208157940204
+Thermo Fisher Scientific,Health Care,S&P 500,SAP_500,0.8774672162432289,0.9660356620575185,0.9906335531882402
+Tiffany & Co.,Consumer Discretionary,S&P 500,SAP_500,,,
+TJX Companies Inc.,Consumer Discretionary,S&P 500,SAP_500,0.7508623398532933,0.9848075317454648,0.9918537549534884
+Tractor Supply Company,Consumer Discretionary,S&P 500,SAP_500,0.8735865507468352,0.9712501950814135,0.9754705086093096
+Trane Technologies plc,Industrials,S&P 500,SAP_500,0.8505477382382787,0.9805959482839509,0.9889184449436572
+TransDigm Group,Industrials,S&P 500,SAP_500,0.7373372313988011,0.9819490162306647,0.9833631665795326
+Truist Financial,Financials,S&P 500,SAP_500,0.8946770727035818,0.965657110739811,0.9914390895685672
+Twitter Inc.,Communication Services,S&P 500,SAP_500,0.7607049715543344,0.9421048852626623,0.9730066394665577
+Tyler Technologies,Information Technology,S&P 500,SAP_500,0.8499746339595925,0.9694733308557705,0.9953582978679086
+Tyson Foods,Consumer Staples,S&P 500,SAP_500,0.8512145526322802,0.963604353807165,0.9898867565681005
+U.S. Bancorp,Financials,S&P 500,SAP_500,0.9413598440181097,0.9580165162646893,0.9513994276046529
+UDR Inc.,Real Estate,S&P 500,SAP_500,0.8269998659274063,0.9663033426848304,0.977451859757358
+Ulta Beauty,Consumer Discretionary,S&P 500,SAP_500,0.8895435485573235,0.9698026151464444,0.9872191084699881
+Under Armour (Class A),Consumer Discretionary,S&P 500,SAP_500,0.80079157613986,0.9663623222971022,0.9824825004186959
+Under Armour (Class C),Consumer Discretionary,S&P 500,SAP_500,,0.9468855790798439,0.9722275282443181
+Union Pacific Corp,Industrials,S&P 500,SAP_500,0.9189615834851302,0.9890514067954609,0.9927425281682403
+United Airlines Holdings,Industrials,S&P 500,SAP_500,0.8514295583451174,0.9089409556907471,0.9044940618602587
+United Health Group Inc.,Health Care,S&P 500,SAP_500,0.8189889230408771,0.9827346823369298,0.9911973100044015
+United Parcel Service,Industrials,S&P 500,SAP_500,0.9274471324993968,0.9574087080551049,0.9840389939506611
+United Rentals Inc.,Industrials,S&P 500,SAP_500,0.7656727525368414,0.9645911317643785,0.9840518111367047
+Universal Health Services,Health Care,S&P 500,SAP_500,0.9139333483619747,0.9824898660075341,0.9833776301993569
+Unum Group,Financials,S&P 500,SAP_500,0.8461117926808208,0.9629146845665829,0.9798355884830444
+Valero Energy,Energy,S&P 500,SAP_500,0.8534636180189706,0.9593088848308629,0.9717696004485028
+Varian Medical Systems,Health Care,S&P 500,SAP_500,0.9335321934043233,0.9894335881970999,0.9889310064116392
+Ventas Inc,Real Estate,S&P 500,SAP_500,0.8876681242043928,0.9521292138490881,0.984042092983817
+Verisign Inc.,Information Technology,S&P 500,SAP_500,0.6946067802686302,0.9358627547708661,0.9724577517524381
+Verisk Analytics,Industrials,S&P 500,SAP_500,0.9415993983717444,0.9743726035828905,0.9765074633810416
+Verizon Communications,Communication Services,S&P 500,SAP_500,0.9117414524359964,0.9690637276805832,0.9813788553066364
+Vertex Pharmaceuticals Inc,Health Care,S&P 500,SAP_500,0.8585692753426891,0.9797273588300275,0.9853331967996566
+VF Corporation,Consumer Discretionary,S&P 500,SAP_500,0.8275551540730769,0.984756674397972,0.9857664618081191
+ViacomCBS,Communication Services,S&P 500,SAP_500,,0.9357187697985063,0.9729496839927054
+Visa Inc.,Information Technology,S&P 500,SAP_500,0.9656960949626331,0.9661887381453171,0.982190843867101
+Vornado Realty Trust,Real Estate,S&P 500,SAP_500,0.8789306783762117,0.9564657827114438,0.9711069411445763
+Vulcan Materials,Materials,S&P 500,SAP_500,0.9619028440743507,0.9763986269407977,0.9898989140170634
+W. R. Berkley Corporation,Financials,S&P 500,SAP_500,0.9229797428214479,0.9841463949854278,0.9797949149021674
+Wabtec Corporation,Industrials,S&P 500,SAP_500,0.9350358384833407,0.9716759160737957,0.9941129075936975
+Walgreens Boots Alliance,Consumer Staples,S&P 500,SAP_500,0.9272898614886679,0.9140837469896149,0.9853407970450448
+Walmart,Consumer Staples,S&P 500,SAP_500,0.9290976085711626,0.989102959244626,0.9888425546378479
+Waste Management Inc.,Industrials,S&P 500,SAP_500,0.9269749365092905,0.9836699033579758,0.9755184818759746
+Waters Corporation,Health Care,S&P 500,SAP_500,0.9322585351761796,0.971970967961307,0.9868404949980627
+WEC Energy Group,Utilities,S&P 500,SAP_500,0.946462717793869,0.9582865137066475,0.981498636347564
+Wells Fargo,Financials,S&P 500,SAP_500,0.9055964291893996,0.9626904090403942,0.9940434696092062
+Welltower Inc.,Real Estate,S&P 500,SAP_500,0.8967978354999607,0.9582679219932752,0.9563130357551815
+West Pharmaceutical Services,Health Care,S&P 500,SAP_500,0.8910867615024719,0.9796884317073296,0.9836501315014201
+Western Digital,Information Technology,S&P 500,SAP_500,0.8634076849637747,0.9564795953781815,0.9805898986414158
+Western Union Co,Information Technology,S&P 500,SAP_500,0.8827650237437724,0.9601688391058565,0.9616910593588895
+WestRock,Materials,S&P 500,SAP_500,0.9156139801224802,0.9775620177512431,0.9810452661975093
+Weyerhaeuser,Real Estate,S&P 500,SAP_500,0.9133767782643657,0.9613715617831451,0.9878560298821902
+Whirlpool Corp.,Consumer Discretionary,S&P 500,SAP_500,0.9244181688844187,0.9749114512721322,0.9843430718211383
+Williams Companies,Energy,S&P 500,SAP_500,0.8524353989002647,0.9631233744705244,0.9776805774255898
+Willis Towers Watson,Financials,S&P 500,SAP_500,0.945716823800039,0.9703619146157458,0.9867107865736762
+Wynn Resorts Ltd,Consumer Discretionary,S&P 500,SAP_500,0.9019785348250882,0.957274365138911,0.9755426550601678
+Xcel Energy Inc,Utilities,S&P 500,SAP_500,0.9107421379371969,0.9732203996878911,0.9835081109789808
+Xerox,Information Technology,S&P 500,SAP_500,0.8940238935648466,0.9678017437523763,0.9520969002037257
+Xilinx,Information Technology,S&P 500,SAP_500,0.9343356292903403,0.9792323936763278,0.986133058553126
+Xylem Inc.,Industrials,S&P 500,SAP_500,0.878618793336725,0.977216411357339,0.9674329142552573
+Yum! Brands Inc,Consumer Discretionary,S&P 500,SAP_500,0.9313741190429053,0.9799951394315911,0.9865380606068914
+Zebra Technologies,Information Technology,S&P 500,SAP_500,0.8894310116457,0.9843271348835654,0.9900263503778155
+Zimmer Biomet Holdings,Health Care,S&P 500,SAP_500,0.9362649318166836,0.9760651801653085,0.9818418076482492
+Zions Bancorp,Financials,S&P 500,SAP_500,0.9051581709482281,0.9495643969219818,0.9696804810229572
+Zoetis,Health Care,S&P 500,SAP_500,0.9436248148745356,0.9910526841905376,0.994160162916959
