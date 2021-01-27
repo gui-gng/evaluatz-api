@@ -55,10 +55,6 @@ async function list(res) {
   }
 }
 
-
-
-
-
 async function getAllStocks() {
   return new Promise(async (resolve) => {
     const url = source_path + '/storage/list_stocks.csv';
